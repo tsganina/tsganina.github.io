@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Моя неделя | Academic</title>
-    <link>https://example.com/tag/%D0%BC%D0%BE%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
-      <atom:link href="https://example.com/tag/%D0%BC%D0%BE%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
-    <description>Моя неделя</description>
+    <title>My week | Academic</title>
+    <link>https://example.com/category/my-week/</link>
+      <atom:link href="https://example.com/category/my-week/index.xml" rel="self" type="application/rss+xml" />
+    <description>My week</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Моя неделя</title>
-      <link>https://example.com/tag/%D0%BC%D0%BE%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <title>My week</title>
+      <link>https://example.com/category/my-week/</link>
     </image>
     
     <item>
