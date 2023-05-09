@@ -33,6 +33,108 @@
     </item>
     
     <item>
+      <title>Сайт &#34;Естественные науки&#34;</title>
+      <link>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</guid>
+      <description>&lt;h2 id=&#34;естественные-науки&#34;&gt;Естественные науки&lt;/h2&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Простота — залог надежности.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Эдсгер Вибе Дейкстра&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://stasya-t.github.io/schoolcode/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ссылка на сайт &amp;ldquo;Естественные науки&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Летом 2021 года я создала свой сайт. Этот проект занял у меня три месяца, в общей сложности было потрачено около двухсот часов на написание кода, подбор фотографий, поиск ссылок и скачивание необходимых учебников.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Мой сайт ориентирован на учеников старших классов. На главной странице можно найти 6 ссылок. Одна из них ведет опять же на главную, другая на страницу где рассказывается о школе, а также прикреплена ссылка на сайт школы. Еще 4 ссылки-кнопки нужны для помощи старшеклассникам в изучении естественных наук. Если вы нажмете на любую из так называемых &amp;ldquo;предметных&amp;rdquo; ссылок, то перейдете на страницу целиком посвященную определенной науке. На такой странице можно скачать учебники за 10-11 класс, найти ресурсы для подготовки к ЕГЭ, а так же материалы школьной программы, которые помогут даже тем ребятам, которые не сдают Государственный Экзамен по этим предметам. Среди материалов можно найти статьи, а также видеоуроки, от коротких, которые нужны для повторения темы в целом, до длинных, которые пригодятся для тех, кто тему пропустил.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;В чем преимущество моего сайта? Я думаю, в простоте использования. На каждой странице - минимум интуитивно понятных кнопок, каждая из которых отвечает за определенную функцию сайта. Внизу любой страницы можно найти три кнопки, которые связаны с аккаунтами школы в социальных сетях.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Сами файлы с сайтом загружены на сервер и могут быть присоединены к другим страницам в интернете. Так как сервер бесплатный, домена нет, значит, найти сайт именно через поисковую систему невозможно, но есть открытый доступ по ссылке, которая откроется на любом устройстве.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Основной язык, на котором разработан сайт - HTML, дизайн разработан благодаря CSS, а всплывающие окна на страницах с предметами - это уже JQuery.
+Также при разработке дизайна сайта я использовала документацию Bootstrap.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_72dd13d2fa0b20904c0c076e5880350d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_752f4daaca856431524a6f5343a45f0d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_20df346ba8e25feea438ea31e87c7dcd.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Отчёты</title>
       <link>https://example.com/post/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
@@ -89,10 +191,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Рассвет на Юпитере&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_3f39538a33f453a2a950f3329f86f9de.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_4d4a4ad4ff733a66f22f59322614c63d.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_08811043760b92365be6ef93ba3db144.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_4d4a4ad4ff733a66f22f59322614c63d.webp&#34;
                width=&#34;468&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,10 +234,93 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Себастьян Элкаде Перро&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_e8250eff989a2fefa533c81d888bfa94.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_06f8bb1b294a59824ebcbd20022a326b.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_dec87af454ff2f228c88bb588eddfadb.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_06f8bb1b294a59824ebcbd20022a326b.webp&#34;
+               width=&#34;342&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе (17.04.2023-23.04.2023)</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Прослушав две лекции, я села заниматься осень ответственной работой. А именно - делать обложку. Труд это нелёгкий, признаю, но что не сделаешь ради собственной повести! Обложка:&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Рассвет на Юпитере&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_3f39538a33f453a2a950f3329f86f9de.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp&#34;
+               width=&#34;468&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Я доделала обложку, и решила, что пора публиковать рассказ, чтобы успеть поучаствовать в конкурсе &amp;ldquo;Весенний фестиваль&amp;rdquo; от Фанфикуса. Главное условие работы был &amp;ldquo;Юмор&amp;rdquo; в жанрах и обязательное использование выпавших места и времени событий. Мне выпал &amp;ldquo;Рассвет на Юпитере&amp;rdquo; - вот я и написала свою первую космическую одиссею. Одиссея, конечно, вышла со знаком &amp;ldquo;недо-&amp;rdquo;, потому что времени катастрофически не хватало. Поэтому ляпы будут на каждом шагу, но так ведь даже веселее)
+Ссылка на работу:&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/643d19e53fccaf001479a361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Работа называется &amp;ldquo;Рассвет на Юпитере&amp;rdquo;. Переходите по ссылке, читайте!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;День прошёл как обычно, я сдала коллоквиум по аналитической геометрии и вернулась домой делать лабораторные работы.&lt;/p&gt;
+&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Плюсы этого дня - мы задали много вопросов. Минусы - нам дали мало ответов.&lt;/p&gt;
+&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;А я никуда не пошла, я была дома и плохо себя чувствовала, и решила написать реферат по истории, а зря, а лучше бы не надо было&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Дописала реферат, случайно получив 43 страницы вместо 20. Но я решила, что много - не мало, по ушам мне за это никто не надаёт и смела поставила заключительную точку на двухлистовом списке литературы.&lt;/p&gt;
+&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Отдых и прогулка с собакой, что может быть лучше? Только наличие домашнего задания.
+Фото собаки прилагается, фото домашнего задания останется грузом в архивах и отпечатком на моей нервной системе.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Себастьян Элкаде Перро&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_e8250eff989a2fefa533c81d888bfa94.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp&#34;
                width=&#34;342&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -149,6 +334,91 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-выживут-все&#34; style=&#34;text-align: center;&#34;&gt;Markdown. Выживут&amp;hellip; Все!&lt;/h1&gt;
+&lt;h2 id=&#34;немного-истории-и-теории&#34; style=&#34;text-align: center;&#34;&gt;Немного истории и теории&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown - это текстовый язык разметки, который был разработан Джоном Грубером и Аароном Шварцем в 2004 году. Markdown был разработан как альтернатива более сложным языкам разметки, таким как HTML. Он основан на идее использования простых символов для обозначения форматирования текста, как, например, знак &amp;ldquo;*&amp;rdquo; для выделения текста курсивом.
+Грубер и Шварц разработали Markdown с помощью простых синтаксических правил, которые могут быть быстро освоены пользователем. Это значительно упрощает процесс написания текста с форматированием.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;С начала своего создания, Markdown стал популярным инструментом для создания веб-страниц, документации, личных блогов и многого другого. Сейчас он является одним из топовых инструментов для написания текстового контента в Интернете.
+Markdown может быть использован в различных областях, где требуется быстрое и удобочитаемое создание документации, блогов, форумов и т.д. Большинство платформ, включая GitHub, Reddit и Stack Overflow, поддерживают язык Markdown как альтернативный ввод текста и разметки.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown - это язык разметки, который используется для создания форматированного текста с помощью простых символов. Markdown можно использовать в редакторах кода, в блогах, в социальных сетях, в электронных письмах и т.д.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Ниже приведены примеры практического использования Markdown:&lt;/p&gt;
+&lt;h2 id=&#34;примеры-кода&#34; style=&#34;text-align: center;&#34;&gt;Примеры кода&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Создание структурированного документа: заголовки, списки, таблицы&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Заголовок первого уровня
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Заголовок второго уровня
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Заголовок третьего уровня
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
+&lt;h2 id=&#34;заголовок-второго-уровня&#34;&gt;Заголовок второго уровня&lt;/h2&gt;
+&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Список
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Второй элемент
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Третий элемент
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Список&lt;/li&gt;
+&lt;li&gt;Второй элемент&lt;/li&gt;
+&lt;li&gt;Третий элемент&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Колонка 1 | Колонка 2 | Колонка 3 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| --------- | --------- | --------- |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Содержимое 1 | Содержимое 2 | Содержимое 3 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Содержимое 4 | Содержимое 5 | Содержимое 6 |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Выделение текста: жирный текст, курсив, зачеркнутый текст&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;**Жирный текст**&lt;/code&gt; = &lt;strong&gt;Жирный текст&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;*Курсив*&lt;/code&gt; = &lt;em&gt;Курсив&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;code&gt;~~Зачеркнутый текст~~&lt;/code&gt; = &lt;del&gt;Зачеркнутый текст&lt;/del&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Создание ссылок на внешние ресурсы&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;[Название ссылки](адрес ссылки)&lt;/code&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://www.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Вставка изображений&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;![Название изображения](адрес изображения)&lt;/code&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://markdown-here.com/img/icon256.png&#34; alt=&#34;Логотип Markdown&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Вставка кода&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Используйте апострофы (`) для вставки inline кода&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;var anyVariable = 5;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Используйте три апострофа (```) перед и после блока кода&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;function myFunction() {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  return &amp;#34;Hello World!&amp;#34;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown. Выживут... Все!</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-выживут-все&#34; style=&#34;text-align: center;&#34;&gt;Markdown. Выживут&amp;hellip; Все!&lt;/h1&gt;
@@ -602,19 +872,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

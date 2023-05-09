@@ -5,7 +5,7 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,15 +13,104 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Сайт &#34;Естественные науки&#34;</title>
+      <link>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</guid>
+      <description>&lt;h2 id=&#34;естественные-науки&#34;&gt;Естественные науки&lt;/h2&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Простота — залог надежности.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Эдсгер Вибе Дейкстра&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://stasya-t.github.io/schoolcode/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ссылка на сайт &amp;ldquo;Естественные науки&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Летом 2021 года я создала свой сайт. Этот проект занял у меня три месяца, в общей сложности было потрачено около двухсот часов на написание кода, подбор фотографий, поиск ссылок и скачивание необходимых учебников.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Мой сайт ориентирован на учеников старших классов. На главной странице можно найти 6 ссылок. Одна из них ведет опять же на главную, другая на страницу где рассказывается о школе, а также прикреплена ссылка на сайт школы. Еще 4 ссылки-кнопки нужны для помощи старшеклассникам в изучении естественных наук. Если вы нажмете на любую из так называемых &amp;ldquo;предметных&amp;rdquo; ссылок, то перейдете на страницу целиком посвященную определенной науке. На такой странице можно скачать учебники за 10-11 класс, найти ресурсы для подготовки к ЕГЭ, а так же материалы школьной программы, которые помогут даже тем ребятам, которые не сдают Государственный Экзамен по этим предметам. Среди материалов можно найти статьи, а также видеоуроки, от коротких, которые нужны для повторения темы в целом, до длинных, которые пригодятся для тех, кто тему пропустил.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;В чем преимущество моего сайта? Я думаю, в простоте использования. На каждой странице - минимум интуитивно понятных кнопок, каждая из которых отвечает за определенную функцию сайта. Внизу любой страницы можно найти три кнопки, которые связаны с аккаунтами школы в социальных сетях.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Сами файлы с сайтом загружены на сервер и могут быть присоединены к другим страницам в интернете. Так как сервер бесплатный, домена нет, значит, найти сайт именно через поисковую систему невозможно, но есть открытый доступ по ссылке, которая откроется на любом устройстве.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Основной язык, на котором разработан сайт - HTML, дизайн разработан благодаря CSS, а всплывающие окна на страницах с предметами - это уже JQuery.
+Также при разработке дизайна сайта я использовала документацию Bootstrap.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_72dd13d2fa0b20904c0c076e5880350d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_752f4daaca856431524a6f5343a45f0d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_20df346ba8e25feea438ea31e87c7dcd.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
