@@ -13,22 +13,101 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Пост по прошедшей неделе (01.05.2023-07.05.2023)</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;вся-неделя-в-одном-флаконе&#34;&gt;Вся неделя в одном флаконе&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Эта неделя была скучная и скудная на события, а потому - нудная. Я заболела, и успела быстро сделать домашнюю работу, поэтому в - неожиданно - свободное время написала два стихотворения и один рассказ. Ссылки и обложки прилагаются.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644529481d413100146b7ba3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Северные Сказки. Дракон в лесу&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Северные Сказки. Дракон в лесу&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1519e084cd797333813f2595d42f8afb.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_746ac2aa4f2c979055c25b7919d68cab.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1519e084cd797333813f2595d42f8afb.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644e91776f816800147cd18e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Мастер и Маргарита&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Мастер и Маргарита&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_0cd06ed1fad7876bc4a716b9e2cebe7e.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_d26c4d2809e098c56430f5cd0f575d43.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_0cd06ed1fad7876bc4a716b9e2cebe7e.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/6453d19e16fe720014fdb604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2 мая&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2 мая&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_e0caacf50c529909444ca37d871dd2e2.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_32a9d106f4398bc6c78743e5b93ade5b.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_e0caacf50c529909444ca37d871dd2e2.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -66,10 +145,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
-               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp 400w,
-               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_72dd13d2fa0b20904c0c076e5880350d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_60b2c3b6288bbe03084e69121503be69.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_8a6e93e4816333405f517f67da1828de.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_68bde440c2bc0b667cde4e07a1b80c45.webp&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_60b2c3b6288bbe03084e69121503be69.webp&#34;
                width=&#34;760&#34;
                height=&#34;383&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -94,10 +173,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
-               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp 400w,
-               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_752f4daaca856431524a6f5343a45f0d.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1ec18aa3096f1dbe1127cfa302ec20c7.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_d99b40f587d7307424928339535b70f9.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_feb05416c38138f5aaae8d0f95b14b55.webp&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1ec18aa3096f1dbe1127cfa302ec20c7.webp&#34;
                width=&#34;760&#34;
                height=&#34;383&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -122,15 +201,128 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
-               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp 400w,
-               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_20df346ba8e25feea438ea31e87c7dcd.webp 760w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_5e30d369f53aa3b25ae070ab794339f1.webp 400w,
+               /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_59ee1808f4be2ce10e4eb6d4234a40aa.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_479d87b8b9af4f029ae3529b028f14fe.webp&#34;
+               src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_5e30d369f53aa3b25ae070ab794339f1.webp&#34;
                width=&#34;760&#34;
                height=&#34;383&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Сборники стихов</title>
+      <link>https://example.com/project/poems/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/poems/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/atlanty-nebo-uronyat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Атланты небо уронят&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;В этом сборнике вы найдёте стихотворения. Разные - грустные и весёлые, серьёзные и шутливые, про волшебство и &amp;ldquo;про жизнь&amp;rdquo;. О любви, о ненависти и предательстве, о безысходности и вере в чудо.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Жизнь игра? Так пошло оно краем!&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Полыхай, погибай и твори.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Помни: мы свои души сжигаем,&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Чтобы было спокойно внутри.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Атланты небо уронят&#34; srcset=&#34;
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp 400w,
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_cc21e74215eaf9de84433dc0f0da93ae.webp 760w,
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp&#34;
+               width=&#34;330&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/severnyy-gorizont/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Северный горизонт&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Стихи написанные в 2022 году. Для меня этот год стал довольно сложным, ознаменовал собой переход в совершенной другую жизнь.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Август пахнет мёдом и хмелем&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Где-то в небе луна серебрится&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Затаюсь под разлапистой елью&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;И дождусь пока вспыхнет зарница&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Вторая книга проиллюстрирована при помощи ИИ&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Северный горизонт&#34; srcset=&#34;
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp 400w,
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_b84fcfd8ad6ad206c0fbb109ab4d33a7.webp 760w,
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp&#34;
+               width=&#34;330&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;языки-научного-программирования&#34; style=&#34;text-align: center;&#34;&gt;Языки научного программирования&lt;/h1&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Языки научного программирования - это компьютерные языки программирования, применение которых находится в научных областях. В настоящее время существует множество языков научного программирования, каждый из которых имеет свои преимущества и недостатки.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Одним из самых популярных языков программирования в научной области является Python. Он используется для работы с данными, создания моделей машинного обучения, анализа статистической информации и многого другого. Python прост в изучении и имеет простой синтаксис, что упрощает создание программ и позволяет сконцентрироваться на задаче.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Еще одним популярным языком программирования для научной области является R. R используется для выполнения статистического анализа данных, создания графиков и диаграмм, анализа биологических и экономических данных, и многого другого. Он также очень популярен в сфере машинного обучения, так как имеет множество библиотек и инструментов для анализа данных.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Matlab - это очень часто используемый язык программирования в научных и инженерных областях для вычислительной математики, анализа данных, создания графиков и диаграмм, разработки алгоритмов и многого другого. Самым важным преимуществом Matlab является его мощный инструментарий, который позволяет работать с большими объемами данных и решать сложные задачи в любой сфере науки и инженерии.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Еще одним языком программирования для научной области, который стал очень популярен в последнее время, является Julia. Это относительно новый язык программирования, который предназначен для программирования научных вычислений, высокопроизводительных вычислений и параллельных вычислений. Julia обладает быстротой и высокой производительностью, что позволяет выполнить сложные задачи на порядок быстрее, чем с использованием других языков программирования.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Кроме того, существуют и другие языки программирования, специализированные для конкретных научных областей, такие как MATLAB в инженерии, Scilab в анализе данных, Fortran и C++ в высокопроизводительных вычислениях, Perl и PHP в биоинформатике и т.д.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;В заключении, мы можем понять, что выбор наилучшего языка программирования для научных приложений зависит от конкретной задачи, требуемой производительности и инструментов, необходимых для выполнения работы. Каждый язык программирования имеет свои преимущества и недостатки, и важно выбрать и использовать их правильно в соответствии с поставленной задачей.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/publication/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;языки-научного-программирования&#34; style=&#34;text-align: center;&#34;&gt;Языки научного программирования&lt;/h1&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Языки научного программирования - это компьютерные языки программирования, применение которых находится в научных областях. В настоящее время существует множество языков научного программирования, каждый из которых имеет свои преимущества и недостатки.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Одним из самых популярных языков программирования в научной области является Python. Он используется для работы с данными, создания моделей машинного обучения, анализа статистической информации и многого другого. Python прост в изучении и имеет простой синтаксис, что упрощает создание программ и позволяет сконцентрироваться на задаче.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Еще одним популярным языком программирования для научной области является R. R используется для выполнения статистического анализа данных, создания графиков и диаграмм, анализа биологических и экономических данных, и многого другого. Он также очень популярен в сфере машинного обучения, так как имеет множество библиотек и инструментов для анализа данных.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Matlab - это очень часто используемый язык программирования в научных и инженерных областях для вычислительной математики, анализа данных, создания графиков и диаграмм, разработки алгоритмов и многого другого. Самым важным преимуществом Matlab является его мощный инструментарий, который позволяет работать с большими объемами данных и решать сложные задачи в любой сфере науки и инженерии.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Еще одним языком программирования для научной области, который стал очень популярен в последнее время, является Julia. Это относительно новый язык программирования, который предназначен для программирования научных вычислений, высокопроизводительных вычислений и параллельных вычислений. Julia обладает быстротой и высокой производительностью, что позволяет выполнить сложные задачи на порядок быстрее, чем с использованием других языков программирования.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Кроме того, существуют и другие языки программирования, специализированные для конкретных научных областей, такие как MATLAB в инженерии, Scilab в анализе данных, Fortran и C++ в высокопроизводительных вычислениях, Perl и PHP в биоинформатике и т.д.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;В заключении, мы можем понять, что выбор наилучшего языка программирования для научных приложений зависит от конкретной задачи, требуемой производительности и инструментов, необходимых для выполнения работы. Каждый язык программирования имеет свои преимущества и недостатки, и важно выбрать и использовать их правильно в соответствии с поставленной задачей.&lt;/p&gt;
 </description>
     </item>
     
@@ -191,10 +383,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Рассвет на Юпитере&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_4d4a4ad4ff733a66f22f59322614c63d.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_b7abd23effde537dba7e990c56615146.webp 400w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_08811043760b92365be6ef93ba3db144.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_4d4a4ad4ff733a66f22f59322614c63d.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_b7abd23effde537dba7e990c56615146.webp&#34;
                width=&#34;468&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -234,93 +426,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Себастьян Элкаде Перро&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_06f8bb1b294a59824ebcbd20022a326b.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_7d19af95924b634f8f3a7f84c2dae011.webp 400w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_dec87af454ff2f228c88bb588eddfadb.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_06f8bb1b294a59824ebcbd20022a326b.webp&#34;
-               width=&#34;342&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Пост по прошедшей неделе (17.04.2023-23.04.2023)</title>
-      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Прослушав две лекции, я села заниматься осень ответственной работой. А именно - делать обложку. Труд это нелёгкий, признаю, но что не сделаешь ради собственной повести! Обложка:&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Рассвет на Юпитере&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_3f39538a33f453a2a950f3329f86f9de.webp 760w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_0ffbc854891b201b93b7419e4b4194bb.webp&#34;
-               width=&#34;468&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Я доделала обложку, и решила, что пора публиковать рассказ, чтобы успеть поучаствовать в конкурсе &amp;ldquo;Весенний фестиваль&amp;rdquo; от Фанфикуса. Главное условие работы был &amp;ldquo;Юмор&amp;rdquo; в жанрах и обязательное использование выпавших места и времени событий. Мне выпал &amp;ldquo;Рассвет на Юпитере&amp;rdquo; - вот я и написала свою первую космическую одиссею. Одиссея, конечно, вышла со знаком &amp;ldquo;недо-&amp;rdquo;, потому что времени катастрофически не хватало. Поэтому ляпы будут на каждом шагу, но так ведь даже веселее)
-Ссылка на работу:&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/643d19e53fccaf001479a361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Работа называется &amp;ldquo;Рассвет на Юпитере&amp;rdquo;. Переходите по ссылке, читайте!&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;День прошёл как обычно, я сдала коллоквиум по аналитической геометрии и вернулась домой делать лабораторные работы.&lt;/p&gt;
-&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Плюсы этого дня - мы задали много вопросов. Минусы - нам дали мало ответов.&lt;/p&gt;
-&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;А я никуда не пошла, я была дома и плохо себя чувствовала, и решила написать реферат по истории, а зря, а лучше бы не надо было&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Дописала реферат, случайно получив 43 страницы вместо 20. Но я решила, что много - не мало, по ушам мне за это никто не надаёт и смела поставила заключительную точку на двухлистовом списке литературы.&lt;/p&gt;
-&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Отдых и прогулка с собакой, что может быть лучше? Только наличие домашнего задания.
-Фото собаки прилагается, фото домашнего задания останется грузом в архивах и отпечатком на моей нервной системе.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Себастьян Элкаде Перро&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_e8250eff989a2fefa533c81d888bfa94.webp 760w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_5e6c0373e76f0f43d8a4e904f873e646.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_7d19af95924b634f8f3a7f84c2dae011.webp&#34;
                width=&#34;342&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -416,9 +525,9 @@ Markdown может быть использован в различных обл
     
     <item>
       <title>Markdown. Выживут... Все!</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>https://example.com/publication/markdown/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>https://example.com/publication/markdown/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-выживут-все&#34; style=&#34;text-align: center;&#34;&gt;Markdown. Выживут&amp;hellip; Все!&lt;/h1&gt;
@@ -586,6 +695,68 @@ Markdown может быть использован в различных обл
     </item>
     
     <item>
+      <title>Пост по прошедшей неделе (13.03.2023-19.03.2023)</title>
+      <link>https://example.com/publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Я сделала тест по Операционным системам и тщательно готовилась к контрольной по математическому анализу. Тщательно и тщетно, потому что мне это не помогло, но это уже спойлер  я отбираю &amp;ldquo;хлеб&amp;rdquo; у вторника.&lt;/p&gt;
+&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Контрольная по матанализу была внезапна и безжалостна, после неё настроение било дно всех отметок &amp;ldquo;паршиво&amp;rdquo;. Потом градус накала добавила гимнастика на физкультуре, так что я пришла домой и села писать рассказ, чтобы успокоить нервы. Самый короткий и самый быстрый рассказ - участие в челлендже &amp;ldquo;Songfic&amp;rdquo;  от Фанфикуса. За основу была взята музыкальная композиция без слов &amp;ldquo;Despair&amp;rdquo; - Eddie van der Meer. В итоге получился рассказ &amp;ldquo;Дом&amp;rdquo;, который влез в челлендж лишь наполовину, потому что нужно было написать 2000 знаком, а я вышла за 4000, грустно, очень грустно (нет). Пришлось публиковать в профиле, о чем я совсем не жалею.
+Потом ещё сделала обложку при помощи искуственного интеллекта, получилось очень красиво (обложку прикрепляю, все должны увидеть эту красоту).&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/640e05b7aef86000141b0f8c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Работа называется &amp;ldquo;Дом&amp;rdquo;. Переходите по ссылке, читайте!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Дом&#34; srcset=&#34;
+               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_b4076fb1a1f30c359be701e704a2a401.webp 400w,
+               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_0a91db151d9f63ae73d6e5424c07af5b.webp 760w,
+               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_b4076fb1a1f30c359be701e704a2a401.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Cамый прекрасный день, всего две пары и отличный романтический вечер:  я и шестая лабораторная. Лабораторная ответила мне взаимностью. Её не пришлось даже долго уговаривать, думаю, она сама ждала этого свидания.
+Так что берите на заметку: если лабораторная не отвечает на ваши просьбы, попробуйте пообещать ей красивый отчёт.
+Порадовал тот факт, что пришли оценки за контрольную - у меня оказалось всё не так плохо, как я думала. Так что я воспряла духом и с новыми силами взялась за отчёт.&lt;/p&gt;
+&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Долгий, но не очень сложный день с осознанием замечательности того факта, что я уже на прошлой неделе сдала код по Технологии Программирования, и мне не нужно делать это повторно. Прекрасный день. Прекрасный пень. Прекрасная я и песенка моя!&lt;/p&gt;
+&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Радует то, что можно выспаться.&lt;/li&gt;
+&lt;li&gt;Приводит в уныние то, что пары до 19:20.&lt;/li&gt;
+&lt;li&gt;Радует то, что успела пообедать.&lt;/li&gt;
+&lt;li&gt;Угнетает то, что ужинала поздно.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В итоге получился день 50/50. Как вероятность встретить слона на Невском проспекте. Либо встретишь, либо нет.&lt;/p&gt;
+&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Выспалась, это плюс. Села доделывать все, что не сделала ранее - это минус. Долго думала, почему я не сделалал это ранее. Вспомнила, что писала рассказ. Порадовалась новому комментарию и села доделывать проект.&lt;/p&gt;
+&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Туманное будущее.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями. Git.</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
@@ -674,20 +845,6 @@ Markdown может быть использован в различных обл
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -876,57 +1033,25 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Разговор о дороге</title>
+      <link>https://example.com/talk/%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%BE-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%BE-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Дорога вьется живой лентой, уводя в туман. Она изгибается хищными поворотами, как образцовая змея, манит недосягаемой линией горизонта - и прячется. Скрывается в облаках, ненадолго спустившихся с неба и отчего-то решивших, что вот здесь, на пути машины, им самое место. Конечно, это не сами облака. Это лишь туман, делающий вид, что он похож на его небесных братьев. Он оплетает кольцами машину, стучится в стекло - ради любопытства, вдруг кто-то откроет окно и пустит его во внутрь?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Туману интересны люди, сидящие в машине. Теплые и живые, недосягаемые для него - холодного и бесплотного. Он мог бы им многое рассказать, в обмен лишь на каплю тепла. Взяв за свои истории лишь толику жизни. Один глоток. О, сколько бы он отдал за этот глоток! У него нет несметных сокровищ, чтобы одарить людей. Все, чем он может их обогатить - знания и время. Он может дать им мгновения, которые окажутся ценнее вечности. Миг, определяющий вечность. Минуту на размышления, спокойствие и отдых, в которых так часто нуждаются путешественники, сами не знающие, чего они ищут. &amp;ldquo;Увы! он счастия не ищет // И не от счастия бежит&amp;rdquo;, как писал М. Ю. Лермонтов. Как паруса блуждают люди в тумане, сами не зная, чего они хотят, и слушая его истории. Он бы рассказал такое, от чего волосы встают дыбом, или такое, от чего захватывает дух. Он мог бы описать все войны, мог бы рассказать про все подвиги. Мог бы поднять до императорских дворцов или опустить до лачуги рыбака. Лязг мечей и вой труб, песни победителей и плачь побежденных, лай собак, смех детей, звуки молитвы&amp;hellip; Если бы у тумана была голова, она бы уже лопнула от всех этих образов. Поэтому, в какой-то мере он рад, что человеком не является. Вечный и вездесущий, он был свидетелем рождения мира и появления Христа, он видел великую храбрость и подлую трусость&amp;hellip; Он опутывает все дороги, от самых широких магистралей, до старых римских дорог, проложенных еще в первом веке.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Наверное, он видел и то, что произошло в маленькой деревушке в рассказе Людмилы Улицкой &amp;ldquo;Путь осла&amp;rdquo;. Возможно, он даже помог брату Марку найти ягненка, а после дойти до дома Женевьев. Может быть, он даже собрал этих людей вместе? Не даром автор рассказа использует прием цветописи, &amp;ldquo;показывая&amp;rdquo; нам оранжевые и золотистые оттенки, будто делясь с нами теплом через эти образы. В тот вечер в доме было настолько тепло от доброты, что туман-то уж точно не упустил возможность и забрал кусочек себе. Маленький осколок добра, пробившийся тусклым блеском золотых букв на обложках книг, которые лежали на стуле Иветт, звуками музыки и пением Эйлин.
+И в благодарность за этот осколок туман рассказал им про Рождество. Рассказал осенью, а не снежным зимним вечером, не вслух, а образами, настолько яркими, чтобы они навсегда отпечатались в памяти людей, волей случая собравшихся в том доме. Да и как еще мог рассказать о чуде он, не имеющий голоса?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Это путешествие по-настоящему обогатило всех присутствующих в той комнате вечером. Новыми знакомствами, чувством единения, настоящим чудом, ведь чудеса, оказывается иногда случаются, если между абсолютно незнакомыми людьми вдруг возникла &amp;ldquo;сильнейшая связь&amp;rdquo;, природу которой рассказчица затруднилась объяснить. Чудеса приходят с первым словом ребенка, который, казалось, не заговорит никогда. С пением псалмов, настолько проникновенных, что &amp;ldquo;святые должны были бы быть беспросветно глухими, если бы не поспешили&amp;rdquo; туда. С падающей звездой, необычайно большой и яркой.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;И я понимаю, что была свидетелем чего-то похожего. Не так, не там и не такого, но чего-то очень близкого. Я видела звезды в Якутии. Они были такие же, &amp;ldquo;преувеличенные&amp;rdquo;, размером со спелые яблоки. Мы остановились в низине, и вот странная штука - там звезды были намного ярче. чем на возвышенности. Видимо, чем ниже мы находимся, тем ярче сияют нам звезды, согревая своим холодным ровным светом. Чем меньше мы ждем, тем больше нам воздается. Так героиня рассказа &amp;ldquo;Путь осла&amp;rdquo; не ждала ничего особенного от своего визита в маленькую деревню, но нашла там не только людей, с которыми приятно общаться, но и настоящее чудо, которого, вполне возможно, ей так не хватало в жизни. В вечной спешке мы забываем оглянуться по сторонам, не видим и не замечаем самого главного, с головой окунаясь в бешеный ритм жизни. Хорошо, если будет затишье, момент абсолютного спокойствия, путеводное чудо, способное наставить нас на путь переосмысления, абсолютный ноль, с которого после начнется отсчет другой жизни. А какой она будет - зависит только от нас.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
