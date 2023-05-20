@@ -13,20 +13,16 @@
     </image>
     
     <item>
-      <title>Сайт &#34;Естественные науки&#34;</title>
-      <link>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <title>Collections of poems</title>
+      <link>https://example.com/project/poems/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</guid>
-      <description>&lt;h2 id=&#34;естественные-науки&#34;&gt;Естественные науки&lt;/h2&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Простота — залог надежности.&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Эдсгер Вибе Дейкстра&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://stasya-t.github.io/schoolcode/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ссылка на сайт &amp;ldquo;Естественные науки&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Летом 2021 года я создала свой сайт. Этот проект занял у меня три месяца, в общей сложности было потрачено около двухсот часов на написание кода, подбор фотографий, поиск ссылок и скачивание необходимых учебников.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Мой сайт ориентирован на учеников старших классов. На главной странице можно найти 6 ссылок. Одна из них ведет опять же на главную, другая на страницу где рассказывается о школе, а также прикреплена ссылка на сайт школы. Еще 4 ссылки-кнопки нужны для помощи старшеклассникам в изучении естественных наук. Если вы нажмете на любую из так называемых &amp;ldquo;предметных&amp;rdquo; ссылок, то перейдете на страницу целиком посвященную определенной науке. На такой странице можно скачать учебники за 10-11 класс, найти ресурсы для подготовки к ЕГЭ, а так же материалы школьной программы, которые помогут даже тем ребятам, которые не сдают Государственный Экзамен по этим предметам. Среди материалов можно найти статьи, а также видеоуроки, от коротких, которые нужны для повторения темы в целом, до длинных, которые пригодятся для тех, кто тему пропустил.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;В чем преимущество моего сайта? Я думаю, в простоте использования. На каждой странице - минимум интуитивно понятных кнопок, каждая из которых отвечает за определенную функцию сайта. Внизу любой страницы можно найти три кнопки, которые связаны с аккаунтами школы в социальных сетях.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Сами файлы с сайтом загружены на сервер и могут быть присоединены к другим страницам в интернете. Так как сервер бесплатный, домена нет, значит, найти сайт именно через поисковую систему невозможно, но есть открытый доступ по ссылке, которая откроется на любом устройстве.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Основной язык, на котором разработан сайт - HTML, дизайн разработан благодаря CSS, а всплывающие окна на страницах с предметами - это уже JQuery.
-Также при разработке дизайна сайта я использовала документацию Bootstrap.&lt;/p&gt;
+      <guid>https://example.com/project/poems/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/atlanty-nebo-uronyat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atlanteans will drop the sky&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;In this collection you will find poems. Different - sad and funny, serious and joking, about magic and &amp;ldquo;about life&amp;rdquo;. About love, about hatred and betrayal, about hopelessness and belief in a miracle.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Life is a game? So it went to the edge!&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Blaze, perish and create.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Remember: we burn our souls,&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;To be calm inside.&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -45,7 +41,88 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Atlanteans will drop the sky&#34; srcset=&#34;
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp 400w,
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_cc21e74215eaf9de84433dc0f0da93ae.webp 760w,
+               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp&#34;
+               width=&#34;330&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/severnyy-gorizont/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northern Horizon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Poems written in 2022. For me, this year has become quite difficult, marked the transition to a completely different life.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;August smells of honey and hops&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Somewhere in the sky, the moon is silvering&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Hiding under a spreading spruce&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;And I&amp;rsquo;ll wait until the lightning flashes&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The second book is illustrated using AI&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Northern Horizon&#34; srcset=&#34;
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp 400w,
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_b84fcfd8ad6ad206c0fbb109ab4d33a7.webp 760w,
+               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp&#34;
+               width=&#34;330&#34;
+               height=&#34;472&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website &#34;Natural Sciences&#34;</title>
+      <link>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/</guid>
+      <description>&lt;h2 id=&#34;natural-sciences&#34;&gt;Natural sciences&lt;/h2&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Simplicity is the key to reliability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Edsger Vibe Dijkstra&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://stasya-t.github.io/schoolcode/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the &amp;ldquo;Natural Sciences&amp;rdquo; website&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;In the summer of 2021, I created my own website. This project took me three months, in total, about two hundred hours were spent writing code, selecting photos, searching for links and downloading the necessary textbooks.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;My website is aimed at high school students. On the main page you can find 6 links. One of them leads again to the main page, the other to a page where it is told about the school, and also a link to the school&amp;rsquo;s website is attached. 4 more links-buttons are needed to help high school students in the study of natural sciences. If you click on any of the so-called &amp;ldquo;subject&amp;rdquo; links, you will go to a page entirely dedicated to a particular science. On this page, you can download textbooks for grades 10-11, find resources for preparing for the Unified State Exam, as well as school curriculum materials that will help even those children who do not pass the State Exam in these subjects. Among the materials you can find articles, as well as video tutorials, from short ones that are needed to repeat the topic as a whole, to long ones that are useful for those who missed the topic.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;What is the advantage of my site? I think in ease of use. Each page has a minimum of intuitive buttons, each of which is responsible for a specific function of the site. At the bottom of any page, you can find three buttons that are linked to the school&amp;rsquo;s social media accounts.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The site files themselves are uploaded to the server and can be attached to other pages on the Internet. Since the server is free, there is no domain, it means that it is impossible to find the site through a search engine, but there is open access via a link that will open on any device.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The main language in which the site is developed is HTML, the design is developed thanks to CSS, and pop-ups on pages with objects are already jQuery.
+I also used Bootstrap documentation when developing the website design.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example&#34; srcset=&#34;
                /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_966f02613f487ecb664464efe6734b9b.webp 400w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_8a6e93e4816333405f517f67da1828de.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/1_hu3cad0b1a6b8a064702f2a53cd5684136_921337_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -73,7 +150,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example&#34; srcset=&#34;
                /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_08f2e36da92cfe91685b11d648322e8f.webp 400w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_d99b40f587d7307424928339535b70f9.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/2_hufd95ae5f44bea5e2d8e5a2668e234eb8_762455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -101,90 +178,13 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пример&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example&#34; srcset=&#34;
                /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_813d7d68445dcea4963f8d110ca9b526.webp 400w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_59ee1808f4be2ce10e4eb6d4234a40aa.webp 760w,
                /project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
                src=&#34;https://example.com/project/%D1%81%D0%B0%D0%B8%D1%82/3_hu003b5604f293243536b00641df77d917_724449_813d7d68445dcea4963f8d110ca9b526.webp&#34;
                width=&#34;760&#34;
                height=&#34;383&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Сборники стихов</title>
-      <link>https://example.com/project/poems/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/poems/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/atlanty-nebo-uronyat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Атланты небо уронят&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;В этом сборнике вы найдёте стихотворения. Разные - грустные и весёлые, серьёзные и шутливые, про волшебство и &amp;ldquo;про жизнь&amp;rdquo;. О любви, о ненависти и предательстве, о безысходности и вере в чудо.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Жизнь игра? Так пошло оно краем!&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Полыхай, погибай и твори.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Помни: мы свои души сжигаем,&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Чтобы было спокойно внутри.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Атланты небо уронят&#34; srcset=&#34;
-               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp 400w,
-               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_cc21e74215eaf9de84433dc0f0da93ae.webp 760w,
-               /project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https://example.com/project/poems/67044039_hud47ab98b441c82cfbcdf070c08a89eba_45276_dc01e1eab33fc95e537341fd6a2487f3.webp&#34;
-               width=&#34;330&#34;
-               height=&#34;472&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.litres.ru/taisiya-ganina/severnyy-gorizont/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Северный горизонт&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Стихи написанные в 2022 году. Для меня этот год стал довольно сложным, ознаменовал собой переход в совершенной другую жизнь.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Август пахнет мёдом и хмелем&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Где-то в небе луна серебрится&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Затаюсь под разлапистой елью&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;И дождусь пока вспыхнет зарница&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Вторая книга проиллюстрирована при помощи ИИ&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Северный горизонт&#34; srcset=&#34;
-               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp 400w,
-               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_b84fcfd8ad6ad206c0fbb109ab4d33a7.webp 760w,
-               /project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https://example.com/project/poems/68588513_hu8a18a3f399c812b30d1d0637dbf21cc0_18478_7d0779d00a4c64cdd687aabede1b8e79.webp&#34;
-               width=&#34;330&#34;
-               height=&#34;472&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
