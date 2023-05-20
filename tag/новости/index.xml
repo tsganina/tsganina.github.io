@@ -13,15 +13,15 @@
     </image>
     
     <item>
-      <title>Пост по прошедшей неделе (01.05.2023-07.05.2023)</title>
+      <title>Last week&#39;s post (01.05.2023-07.05.2023)</title>
       <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;вся-неделя-в-одном-флаконе&#34;&gt;Вся неделя в одном флаконе&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Эта неделя была скучная и скудная на события, а потому - нудная. Я заболела, и успела быстро сделать домашнюю работу, поэтому в - неожиданно - свободное время написала два стихотворения и один рассказ. Ссылки и обложки прилагаются.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644529481d413100146b7ba3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Северные Сказки. Дракон в лесу&lt;/a&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;the-whole-week-in-one-bottle&#34;&gt;The whole week in one bottle&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;This week has been boring and meager on events, and therefore tedious. I got sick and managed to do my homework quickly, so in - unexpectedly -free time I wrote two poems and one story. Links and covers are attached.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644529481d413100146b7ba3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northern Fairy Tales. The Dragon in the forest&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -40,17 +40,17 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Северные Сказки. Дракон в лесу&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1519e084cd797333813f2595d42f8afb.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_746ac2aa4f2c979055c25b7919d68cab.webp 760w,
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Northern Fairy Tales. The Dragon in the forest&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_29876ea7ad48f1b8afab0927c4ff581a.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_b41cde4b5e59de9769e9fe4b2729f981.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_1519e084cd797333813f2595d42f8afb.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/3_huf9eb63710ac95dcd832b77653ecf11d1_490479_29876ea7ad48f1b8afab0927c4ff581a.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644e91776f816800147cd18e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Мастер и Маргарита&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/644e91776f816800147cd18e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Master and Margarita&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -69,17 +69,17 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Мастер и Маргарита&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_0cd06ed1fad7876bc4a716b9e2cebe7e.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_d26c4d2809e098c56430f5cd0f575d43.webp 760w,
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The Master and Margarita&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_5c6c19684e45f953d396a2f6dab1b50b.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_2ad6355a6aba8251f0b060403dbbffb3.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_0cd06ed1fad7876bc4a716b9e2cebe7e.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/2_hu0856b90587163d682b8bf0e146d02bc1_353171_5c6c19684e45f953d396a2f6dab1b50b.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/6453d19e16fe720014fdb604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2 мая&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/6453d19e16fe720014fdb604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;May 2&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -98,11 +98,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2 мая&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_e0caacf50c529909444ca37d871dd2e2.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_32a9d106f4398bc6c78743e5b93ade5b.webp 760w,
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;May 2&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_793f0456f8215091adf81da827829aa8.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_3c1bffeafc282cb5ea6e121506cf7596.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_e0caacf50c529909444ca37d871dd2e2.webp&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/1_huc7e77dc0b8d49fbcd08637b3492fdc4a_155065_793f0456f8215091adf81da827829aa8.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -112,14 +112,14 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (17.04.2023-23.04.2023)</title>
+      <title>Last week&#39;s post (17.04.2023-23.04.2023)</title>
       <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Прослушав две лекции, я села заниматься осень ответственной работой. А именно - делать обложку. Труд это нелёгкий, признаю, но что не сделаешь ради собственной повести! Обложка:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-monday&#34;&gt;😑 Monday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;After listening to two lectures, I sat down to do a very responsible job. Namely, to make a cover. It&amp;rsquo;s not an easy job, I admit, but what can you not do for the sake of your own story! Cover:&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -138,7 +138,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Рассвет на Юпитере&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Dawn on Jupiter&#34; srcset=&#34;
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_b7abd23effde537dba7e990c56615146.webp 400w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_08811043760b92365be6ef93ba3db144.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_hu23d1f07b931420a8d80f9cca97fca88b_126451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -148,21 +148,21 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Я доделала обложку, и решила, что пора публиковать рассказ, чтобы успеть поучаствовать в конкурсе &amp;ldquo;Весенний фестиваль&amp;rdquo; от Фанфикуса. Главное условие работы был &amp;ldquo;Юмор&amp;rdquo; в жанрах и обязательное использование выпавших места и времени событий. Мне выпал &amp;ldquo;Рассвет на Юпитере&amp;rdquo; - вот я и написала свою первую космическую одиссею. Одиссея, конечно, вышла со знаком &amp;ldquo;недо-&amp;rdquo;, потому что времени катастрофически не хватало. Поэтому ляпы будут на каждом шагу, но так ведь даже веселее)
-Ссылка на работу:&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/643d19e53fccaf001479a361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Работа называется &amp;ldquo;Рассвет на Юпитере&amp;rdquo;. Переходите по ссылке, читайте!&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;День прошёл как обычно, я сдала коллоквиум по аналитической геометрии и вернулась домой делать лабораторные работы.&lt;/p&gt;
-&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Плюсы этого дня - мы задали много вопросов. Минусы - нам дали мало ответов.&lt;/p&gt;
-&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;А я никуда не пошла, я была дома и плохо себя чувствовала, и решила написать реферат по истории, а зря, а лучше бы не надо было&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Дописала реферат, случайно получив 43 страницы вместо 20. Но я решила, что много - не мало, по ушам мне за это никто не надаёт и смела поставила заключительную точку на двухлистовом списке литературы.&lt;/p&gt;
-&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Отдых и прогулка с собакой, что может быть лучше? Только наличие домашнего задания.
-Фото собаки прилагается, фото домашнего задания останется грузом в архивах и отпечатком на моей нервной системе.&lt;/p&gt;
+&lt;h2 id=&#34;-tuesday&#34;&gt;🤔 Tuesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align:justify;&#34;&gt;I finished the cover, and decided that it was time to publish the story in order to have time to participate in the &amp;ldquo;Spring Festival&amp;rdquo; contest from Fanficus. The main condition of the work was &amp;ldquo;Humor&amp;rdquo; in genres and the obligatory use of the dropped place and time of events. I got &amp;ldquo;Dawn on Jupiter&amp;rdquo; - so I wrote my first space odyssey. The Odyssey, of course, came out with the &amp;ldquo;under-&amp;rdquo; sign, because there was not enough time catastrophically. Therefore, there will be mistakes at every step, but it&amp;rsquo;s even more fun this way)
+Job link:&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/643d19e53fccaf001479a361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The work is called &amp;ldquo;Dawn on Jupiter&amp;rdquo;. Follow the link, read!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-wednesday&#34;&gt;😊 Wednesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The day passed as usual, I passed the colloquium on analytical geometry and returned home to do laboratory work.&lt;/p&gt;
+&lt;h2 id=&#34;-thursday&#34;&gt;😎 Thursday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The pros of this day - we asked a lot of questions. Cons - we were given few answers.&lt;/p&gt;
+&lt;h2 id=&#34;-friday&#34;&gt;🙄 Friday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;And I didn&amp;rsquo;t go anywhere, I was at home and felt bad, and decided to write a history essay, but in vain, and it would have been better not to&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;-saturday&#34;&gt;💫 Saturday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I finished the essay, accidentally getting 43 pages instead of 20. But I decided that a lot is not a little, no one will hit me in the ears for this, and I boldly put the final point on the two-leaf list of literature.&lt;/p&gt;
+&lt;h2 id=&#34;-sunday&#34;&gt;💭 Sunday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Rest and walk with the dog, what could be better? Only the presence of homework.
+A photo of the dog is attached, a photo of homework will remain a burden in the archives and an imprint on my nervous system.&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -181,7 +181,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Себастьян Элкаде Перро&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sebastian Elkade Perro&#34; srcset=&#34;
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_7d19af95924b634f8f3a7f84c2dae011.webp 400w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_dec87af454ff2f228c88bb588eddfadb.webp 760w,
                /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%B1%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_hubda25c4bb187cfae909cfdbd03dce883_172186_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -195,42 +195,42 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (27.03.2023-02.04.2023)</title>
+      <title>Last week&#39;s post (27.03.2023-02.04.2023)</title>
       <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;В понедельник были дистанционные лекции, потом я сделала лабораторную номер 8 и погуляла с собакой. Соседи уверовали в то, что собака адекватная. А хозяйка нервная. Собака тоже уверовала в то, что хозяйка злая - не дала съесть чихуахуа. А зря не дала.&lt;/p&gt;
-&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Прошёл как обычно. На вопрос о транзакции баллов на другие семинары по алгебре нам ответили, что это философский вопрос.&lt;/p&gt;
-&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Я никуда не пошла и потом переписывала конспекты. Счастье есть. Иногда нужно позволить себе сделать ленивый день, чтобы понять, что жизнь прекрасна. Иначе устанешь и будешь злым. А я психолог.&lt;/p&gt;
-&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Пришлось срочно переделывать и без того хорошо работающий код. Счастья нет.&lt;/p&gt;
-&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Ура, английский и алгебра! Хотя транзакцию баллов нам не разрешили. Грустно.&lt;/p&gt;
-&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Неделя была лёгкая и без истории. Это несомненный плюс. Пришлось делать доклад к следующей неделе - это несомненный минус.&lt;/p&gt;
-&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Я не пошла гулять с подругой, потому что она учится. И я учусь. И у нас нет выходных. У нас есть дедлайны.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-monday&#34;&gt;😑 Monday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;On Monday, there were remote lectures, then I did lab number 8 and took a walk with the dog. The neighbors believed that the dog is adequate. And the hostess is nervous. The dog also believed that the owner was evil - she did not let him eat the chihuahua. But she didn&amp;rsquo;t give it in vain.&lt;/p&gt;
+&lt;h2 id=&#34;-tuesday&#34;&gt;🤔 Tuesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Passed as usual. When asked about the transfer of points to other algebra seminars, we were told that this was a philosophical question.&lt;/p&gt;
+&lt;h2 id=&#34;-wednesday&#34;&gt;😊 Wednesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I didn&amp;rsquo;t go anywhere and then rewrote my notes. There is happiness. Sometimes you need to allow yourself to make a lazy day to realize that life is beautiful. Otherwise you&amp;rsquo;ll get tired and be angry. And I&amp;rsquo;m a psychologist.&lt;/p&gt;
+&lt;h2 id=&#34;-thursday&#34;&gt;😎 Thursday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I had to urgently redo the already well-working code. There is no happiness.&lt;/p&gt;
+&lt;h2 id=&#34;-friday&#34;&gt;🙄 Friday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Hooray, English and algebra! Although the transaction of points was not allowed to us. Sadly.&lt;/p&gt;
+&lt;h2 id=&#34;-saturday&#34;&gt;💫 Saturday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The week was easy and without a story. This is an undoubted plus. I had to make a report by next week - this is an undoubted minus.&lt;/p&gt;
+&lt;h2 id=&#34;-sunday&#34;&gt;💭 Sunday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I didn&amp;rsquo;t go for a walk with my friend because she is studying. And I&amp;rsquo;m learning. And we don&amp;rsquo;t have days off. We have deadlines.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (13.03.2023-19.03.2023)</title>
+      <title>Last week&#39;s post (13.03.2023-19.03.2023)</title>
       <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-понедельник&#34;&gt;😑 Понедельник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Я сделала тест по Операционным системам и тщательно готовилась к контрольной по математическому анализу. Тщательно и тщетно, потому что мне это не помогло, но это уже спойлер  я отбираю &amp;ldquo;хлеб&amp;rdquo; у вторника.&lt;/p&gt;
-&lt;h2 id=&#34;-вторник&#34;&gt;🤔 Вторник:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Контрольная по матанализу была внезапна и безжалостна, после неё настроение било дно всех отметок &amp;ldquo;паршиво&amp;rdquo;. Потом градус накала добавила гимнастика на физкультуре, так что я пришла домой и села писать рассказ, чтобы успокоить нервы. Самый короткий и самый быстрый рассказ - участие в челлендже &amp;ldquo;Songfic&amp;rdquo;  от Фанфикуса. За основу была взята музыкальная композиция без слов &amp;ldquo;Despair&amp;rdquo; - Eddie van der Meer. В итоге получился рассказ &amp;ldquo;Дом&amp;rdquo;, который влез в челлендж лишь наполовину, потому что нужно было написать 2000 знаком, а я вышла за 4000, грустно, очень грустно (нет). Пришлось публиковать в профиле, о чем я совсем не жалею.
-Потом ещё сделала обложку при помощи искуственного интеллекта, получилось очень красиво (обложку прикрепляю, все должны увидеть эту красоту).&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/640e05b7aef86000141b0f8c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Работа называется &amp;ldquo;Дом&amp;rdquo;. Переходите по ссылке, читайте!&lt;/a&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-monday&#34;&gt;😑 Monday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I did a test on Operating systems and carefully prepared for the control on mathematical analysis. Carefully and in vain, because it didn&amp;rsquo;t help me, but this is already a spoiler, I&amp;rsquo;m taking away the &amp;ldquo;bread&amp;rdquo; from Tuesday.&lt;/p&gt;
+&lt;h2 id=&#34;-tuesday&#34;&gt;🤔 Tuesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The matanalysis test was sudden and ruthless, after which the mood beat the bottom of all the marks &amp;ldquo;lousy&amp;rdquo;. Then gymnastics in physical education added a degree of intensity, so I came home and sat down to write a story to calm my nerves. The shortest and fastest story is participation in the &amp;ldquo;Songfic&amp;rdquo; challenge from Fanficus. It was based on a musical composition without the words &amp;ldquo;Despair&amp;rdquo; - Eddie van der Meer. As a result, the story &amp;ldquo;House&amp;rdquo; turned out, which got into the challenge only half, because it was necessary to write 2000 characters, and I went beyond 4000, sad, very sad (no). I had to publish it in my profile, which I don&amp;rsquo;t regret at all.
+Then I also made a cover using artificial intelligence, it turned out very beautiful (I attach the cover, everyone should see this beauty).&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://fanficus.com/post/640e05b7aef86000141b0f8c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The work is called &amp;ldquo;Home&amp;rdquo;. Follow the link, read!&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -249,34 +249,27 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Дом&#34; srcset=&#34;
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_23d49613126679a03c0e06fe77c843d2.webp 400w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_51609f28d10812dfe21e2ca54fb21e89.webp 760w,
-               /post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_23d49613126679a03c0e06fe77c843d2.webp&#34;
-               width=&#34;507&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;%d0%b4%d0%be%d0%bc.%d1%98%d1%80%d0%b5g&#34; alt=&#34;House&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;-среда&#34;&gt;😊 Среда:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Cамый прекрасный день, всего две пары и отличный романтический вечер:  я и шестая лабораторная. Лабораторная ответила мне взаимностью. Её не пришлось даже долго уговаривать, думаю, она сама ждала этого свидания.
-Так что берите на заметку: если лабораторная не отвечает на ваши просьбы, попробуйте пообещать ей красивый отчёт.
-Порадовал тот факт, что пришли оценки за контрольную - у меня оказалось всё не так плохо, как я думала. Так что я воспряла духом и с новыми силами взялась за отчёт.&lt;/p&gt;
-&lt;h2 id=&#34;-четверг&#34;&gt;😎 Четверг:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Долгий, но не очень сложный день с осознанием замечательности того факта, что я уже на прошлой неделе сдала код по Технологии Программирования, и мне не нужно делать это повторно. Прекрасный день. Прекрасный пень. Прекрасная я и песенка моя!&lt;/p&gt;
-&lt;h2 id=&#34;-пятница&#34;&gt;🙄 Пятница:&lt;/h2&gt;
+&lt;h2 id=&#34;-wednesday&#34;&gt;😊 Wednesday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The most beautiful day, just two couples and a great romantic evening:  me and the sixth lab. The laboratory responded to me in return. She didn&amp;rsquo;t even have to be persuaded for a long time, I think she was waiting for this date herself.
+So take note: if the laboratory does not respond to your requests, try to promise her a beautiful report.
+I was pleased with the fact that the grades for the test came - everything turned out to be not as bad as I thought. So I cheered up and took up the report with renewed vigor.&lt;/p&gt;
+&lt;h2 id=&#34;-thursday&#34;&gt;😎 Thursday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;A long, but not very difficult day with the realization of the wonderful fact that I already passed the code on Programming Technology last week, and I don&amp;rsquo;t need to do it again. It&amp;rsquo;s a beautiful day. A beautiful tree stump. I am beautiful and my song!&lt;/p&gt;
+&lt;h2 id=&#34;-friday&#34;&gt;🙄 Friday:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Радует то, что можно выспаться.&lt;/li&gt;
-&lt;li&gt;Приводит в уныние то, что пары до 19:20.&lt;/li&gt;
-&lt;li&gt;Радует то, что успела пообедать.&lt;/li&gt;
-&lt;li&gt;Угнетает то, что ужинала поздно.&lt;/li&gt;
+&lt;li&gt;The good thing is that you can get enough sleep.&lt;/li&gt;
+&lt;li&gt;It is disheartening that couples are up to 19:20.&lt;/li&gt;
+&lt;li&gt;I am glad that I managed to have lunch.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s depressing that I had dinner late.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В итоге получился день 50/50. Как вероятность встретить слона на Невском проспекте. Либо встретишь, либо нет.&lt;/p&gt;
-&lt;h2 id=&#34;-суббота&#34;&gt;💫 Суббота:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Выспалась, это плюс. Села доделывать все, что не сделала ранее - это минус. Долго думала, почему я не сделалал это ранее. Вспомнила, что писала рассказ. Порадовалась новому комментарию и села доделывать проект.&lt;/p&gt;
-&lt;h2 id=&#34;-воскресенье&#34;&gt;💭 Воскресенье:&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Туманное будущее.&lt;/p&gt;
+&lt;p&gt;The result was a 50/50 day. As the probability of meeting an elephant on Nevsky Prospekt. Either you will, or you won&amp;rsquo;t.&lt;/p&gt;
+&lt;h2 id=&#34;-saturday&#34;&gt;💫 Saturday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I slept well, that&amp;rsquo;s a plus. I sat down to finish everything that I didn&amp;rsquo;t do earlier - this is a minus. I&amp;rsquo;ve been thinking for a long time why I didn&amp;rsquo;t do it earlier. I remembered that I was writing a story. I was pleased with the new comment and sat down to finish the project.&lt;/p&gt;
+&lt;h2 id=&#34;-sunday&#34;&gt;💭 Sunday:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;A hazy future.&lt;/p&gt;
 </description>
     </item>
     
@@ -312,10 +305,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Дом&#34; srcset=&#34;
-               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_b4076fb1a1f30c359be701e704a2a401.webp 400w,
-               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_0a91db151d9f63ae73d6e5424c07af5b.webp 760w,
+               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_392737ca3685f3b73b8ac2e1b14c2bf6.webp 400w,
+               /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_51609f28d10812dfe21e2ca54fb21e89.webp 760w,
                /publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_b4076fb1a1f30c359be701e704a2a401.webp&#34;
+               src=&#34;https://example.com/publication/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/%D0%B4%D0%BE%D0%BC_hu5538fe85756b09fe864bfaaadf3020d5_319277_392737ca3685f3b73b8ac2e1b14c2bf6.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -13,58 +13,66 @@
     </image>
     
     <item>
-      <title>Markdown. Выживут... Все!</title>
+      <title>Markdown. Everyone will survive!</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-выживут-все&#34; style=&#34;text-align: center;&#34;&gt;Markdown. Выживут&amp;hellip; Все!&lt;/h1&gt;
-&lt;h2 id=&#34;немного-истории-и-теории&#34; style=&#34;text-align: center;&#34;&gt;Немного истории и теории&lt;/h2&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown - это текстовый язык разметки, который был разработан Джоном Грубером и Аароном Шварцем в 2004 году. Markdown был разработан как альтернатива более сложным языкам разметки, таким как HTML. Он основан на идее использования простых символов для обозначения форматирования текста, как, например, знак &amp;ldquo;*&amp;rdquo; для выделения текста курсивом.
-Грубер и Шварц разработали Markdown с помощью простых синтаксических правил, которые могут быть быстро освоены пользователем. Это значительно упрощает процесс написания текста с форматированием.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;С начала своего создания, Markdown стал популярным инструментом для создания веб-страниц, документации, личных блогов и многого другого. Сейчас он является одним из топовых инструментов для написания текстового контента в Интернете.
-Markdown может быть использован в различных областях, где требуется быстрое и удобочитаемое создание документации, блогов, форумов и т.д. Большинство платформ, включая GitHub, Reddit и Stack Overflow, поддерживают язык Markdown как альтернативный ввод текста и разметки.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown - это язык разметки, который используется для создания форматированного текста с помощью простых символов. Markdown можно использовать в редакторах кода, в блогах, в социальных сетях, в электронных письмах и т.д.&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Ниже приведены примеры практического использования Markdown:&lt;/p&gt;
-&lt;h2 id=&#34;примеры-кода&#34; style=&#34;text-align: center;&#34;&gt;Примеры кода&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-everyone-will-survive&#34; style=&#34;text-align: center;&#34;&gt;Markdown. Everyone will survive!&lt;/h1&gt;
+&lt;h2 id=&#34;a-little-history-and-theory&#34; style=&#34;text-align: center;&#34;&gt;A little history and theory&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown is a text markup language that was developed by John Gruber and Aaron Schwartz in 2004. Markdown was designed as an alternative to more complex markup languages such as HTML. It is based on the idea of using simple symbols to indicate text formatting, such as the &amp;ldquo;*&amp;rdquo; sign to italicize text.
+Gruber and Schwartz developed Markdown using simple syntactic rules that can be quickly mastered by the user. This greatly simplifies the process of writing text with formatting.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Since its inception, Markdown has become a popular tool for creating web pages, documentation, personal blogs, and more. Now it is one of the top tools for writing text content on the Internet.
+Markdown can be used in various areas where quick and readable creation of documentation, blogs, forums, etc. is required. Most platforms, including GitHub, Reddit and Stack Overflow, support Markdown language as an alternative text input and markup.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Markdown is a markup language that is used to create formatted text using simple characters. Markdown can be used in code editors, blogs, social networks, emails, etc.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify;&#34;&gt;Below are examples of practical use of Markdown:&lt;/p&gt;
+&lt;h2 id=&#34;code-examples&#34; style=&#34;text-align: center;&#34;&gt;Code examples&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Создание структурированного документа: заголовки, списки, таблицы&lt;/li&gt;
+&lt;li&gt;Creating a structured document: headers, lists, tables&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Заголовок первого уровня
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Заголовок второго уровня
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Заголовок третьего уровня
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
-&lt;h2 id=&#34;заголовок-второго-уровня&#34;&gt;Заголовок второго уровня&lt;/h2&gt;
-&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Список
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Второй элемент
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Третий элемент
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Список&lt;/li&gt;
-&lt;li&gt;Второй элемент&lt;/li&gt;
-&lt;li&gt;Третий элемент&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Колонка 1 | Колонка 2 | Колонка 3 |
+&lt;p&gt;``&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header&#34;&gt;First level header&lt;/h1&gt;
+&lt;h2 id=&#34;second-level-header&#34;&gt;Second level header&lt;/h2&gt;
+&lt;h3 id=&#34;third-level-header&#34;&gt;Third level header&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# First level header
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Second level header
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Third level header
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* List
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* The second element
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* The third element
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* List
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* The second element
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* The third element
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Column 1 | Column 2 | Column 3 |
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| --------- | --------- | --------- |
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Содержимое 1 | Содержимое 2 | Содержимое 3 |
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Содержимое 4 | Содержимое 5 | Содержимое 6 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Content 1 | Content 2 | Content 3 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Content 4 | Content 5 | Content 6 |
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Выделение текста: жирный текст, курсив, зачеркнутый текст&lt;/li&gt;
+&lt;li&gt;Text selection: bold text, italics, strikethrough text&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;**Жирный текст**&lt;/code&gt; = &lt;strong&gt;Жирный текст&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;*Курсив*&lt;/code&gt; = &lt;em&gt;Курсив&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;code&gt;~~Зачеркнутый текст~~&lt;/code&gt; = &lt;del&gt;Зачеркнутый текст&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;`&lt;strong&gt;Bold text&lt;/strong&gt;&amp;rsquo; = &lt;strong&gt;Bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;*Italics*&lt;/code&gt; = &lt;em&gt;Italics&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;code&gt;~~Strikethrough text~~&lt;/code&gt; = &lt;del&gt;Strikethrough text&lt;/del&gt;&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Создание ссылок на внешние ресурсы&lt;/li&gt;
+&lt;li&gt;Creating links to external resources&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;[Название ссылки](адрес ссылки)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[Link name](link address)&lt;/code&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;&lt;a href=&#34;https://www.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Вставка изображений&lt;/li&gt;
+&lt;li&gt;Inserting images&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;![Название изображения](адрес изображения)&lt;/code&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;
+&lt;p&gt;&lt;code&gt;![Image name](Image address)&lt;/code&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:justify;&#34;&gt;
 
 
 
@@ -82,15 +90,15 @@ Markdown может быть использован в различных обл
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://markdown-here.com/img/icon256.png&#34; alt=&#34;Логотип Markdown&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://markdown-here.com/img/icon256.png&#34; alt=&#34;Markdown Logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Вставка кода&lt;/li&gt;
+&lt;li&gt;Inserting the code&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Используйте апострофы (`) для вставки inline кода&lt;/p&gt;
+&lt;p&gt;Use apostrophes (`) to insert inline code&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;var anyVariable = 5;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Используйте три апострофа (```) перед и после блока кода&lt;/p&gt;
+&lt;p&gt;Use three apostrophes (```) before and after the code block&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;function myFunction() {
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  return &amp;#34;Hello World!&amp;#34;;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}

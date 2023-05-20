@@ -13,31 +13,31 @@
     </image>
     
     <item>
-      <title>Отчёты</title>
+      <title>Reports</title>
       <link>https://example.com/post/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;отчёты&#34;&gt;Отчёты&lt;/h1&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;##Что такое отчёт?&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Отчёт - это документ, содержащий информацию о выполненной работе, результате деятельности, произошедших событиях или фактах. Он может быть оформлен в различных форматах и применяться в различных областях, таких как бухгалтерия, управление проектами, медицина, научные исследования и т.д. Основной целью отчёта является передача информации и обратная связь.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;##Зачем нужен отчёт?&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Отчёт нужен для документирования и анализа информации о деятельности или процессах. Он позволяет оценить производительность, определить успех и проблемы в работе, а также принять решения на основе полученных данных. Отчёты играют важную роль в организации, бизнесе, научных исследованиях, управлении проектами и т.д. В зависимости от целей и задач, отчёты могут иметь разный формат и структуру, но все они направлены на предоставление информации с целью принятия решений.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;##Содержание отчёта&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;reports&#34;&gt;Reports&lt;/h1&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;##What is a report?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;A report is a document containing information about the work performed, the result of activities, events that have occurred or facts. It can be designed in various formats and applied in various fields, such as accounting, project management, medicine, scientific research, etc. The main purpose of the report is to convey information and feedback.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;##Why do I need a report?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;The report is needed to document and analyze information about activities or processes. It allows you to evaluate performance, determine success and problems in work, and make decisions based on the data obtained. Reports play an important role in organization, business, research, project management, etc. Depending on the goals and objectives, reports may have a different format and structure, but they are all aimed at providing information for decision-making.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;##Report content&lt;/p&gt;
 &lt;ol style=&#34;text-align: justify;&#34;&gt;
-&lt;li&gt;Титульный лист с указанием номера лабораторной работы и ФИО студента.&lt;/li&gt;
-&lt;li&gt;Формулировка цели работы.&lt;/li&gt;
-&lt;li&gt;Описание результатов выполнения задания:
-– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
-– листинги (исходный код) программ (если они есть);
-– результаты выполнения программ (текст или снимок экрана в зависимости от
-задания).&lt;/li&gt;
-&lt;li&gt;Выводы, согласованные с целью работы.&lt;/li&gt;
-&lt;li&gt;Ответы на контрольные вопросы.&lt;/li&gt;
+&lt;li&gt;The title page with the number of the laboratory work and the full name of the student.&lt;/li&gt;
+&lt;li&gt;Formulation of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Description of the results of the task:
+– screenshots (screenshots) that record the performance of laboratory work;
+– listings (source code) of programs (if any);
+– program execution results (text or screenshot depending on
+the task).&lt;/li&gt;
+&lt;li&gt;Conclusions agreed with the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Answers to security questions.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;##Наши отчёты&lt;/p&gt;
-&lt;p style=&#34;text-align: justify;&#34;&gt;Наши отчёты выполняются в системе Markdown и обязательно содержат скриншоты выполнения работы. Благодаря языку разметки их оформление становится лёгкой задачей.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;##Our reports&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Our reports are executed in the Markdown system and necessarily contain screenshots of the work. Thanks to the markup language, their design becomes an easy task.&lt;/p&gt;
 </description>
     </item>
     
