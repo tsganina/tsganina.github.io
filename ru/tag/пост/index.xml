@@ -5,12 +5,38 @@
     <link>https://example.com/ru/tag/%D0%BF%D0%BE%D1%81%D1%82/</link>
       <atom:link href="https://example.com/ru/tag/%D0%BF%D0%BE%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <description>Пост</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Пост</title>
       <link>https://example.com/ru/tag/%D0%BF%D0%BE%D1%81%D1%82/</link>
     </image>
+    
+    <item>
+      <title>Искусственный интеллект</title>
+      <link>https://example.com/ru/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Искусственный интеллект&lt;/strong&gt; – это компьютерные программы и механизмы, способные определять проблемные ситуации, формулировать задачи, находить решения и принимать решения на основе определенных критериев. Это инновационная технология, которая развивается в настоящее время быстрыми темпами и находит все новые применения в повседневной жизни, экономике, производстве, медицине и других областях.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Развитие искусственного интеллекта началось еще в середине XIX века, но настоящее расцвет этой технологии пришелся на XXI век. Сегодня ИИ используется в большом количестве отраслей, способствует развитию медицинской диагностики, транспортной и химической промышленности, робототехники. Среди самых известных приложений ИИ – Siri, Google Assistant, Amazon Alexa – виртуальные помощники, которые помогают повысить удобство общения человека и компьютера.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Однако развитие ИИ не без своих проблем. В том числе возникают вопросы о безопасности данных и человеческой этики. Некоторые ученые и общественные деятели призывают к осторожности в отношении ИИ, опасаясь его силы и возможного социального воздействия.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Необходимо отметить, что есть несколько направлений развития ИИ. Эти направления могут быть отличными и влиять на то, какой тип ИИ использовать для конкретной задачи. Одним из наиболее интересных направлений развития является разработка алгоритмов, которые будут экономить ресурсы и повышать качество жизни людей во всем мире.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Для того, чтобы искусственный интеллект смог стать настоящим помощником человека, ученым и специалистам необходимо совместное взаимодействие и обсуждение этой темы. На этом пути важно рассмотреть все возможные проблемы и риски для общества. Только так можно будет выявить потенциальные проблемы перед тем, как появится возможность их решения.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе (08.05.23 - 14.05.23)</title>
+      <link>https://example.com/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Как дела?&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p style=&#34;text-align: justify;&#34;&gt;В понедельник я просыпаюсь тяжело после выходных, но знаю, что меня ждут новые задачи и дела. Вторник проходит уже легче, я начинаю входить в рабочий ритм. В среду я обычно чувствую волнение, потому что это уже середина недели, и я понимаю, что осталось еще столько работы. В четверг я уже настроена на победу и готова решать самые сложные задачи. Пятница – это настоящий праздник. Я знаю, что скоро начнется долгожданный выходной, и я могу наконец-то расслабиться. В субботу я обычно занимаюсь своими уроками. Воскресенье – это день для семьи и близких, и я стараюсь проводить его с максимальной пользой и наслаждением. Так проходят мои дни недели.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе (01.05.2023-07.05.2023)</title>
