@@ -14,9 +14,9 @@
     
     <item>
       <title>Basics of cybersecurity</title>
-      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</guid>
       <description>&lt;h2 id=&#34;basics-of-cybersecurity&#34;&gt;Basics of cybersecurity&lt;/h2&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://github.com/tsganina/study_2023-2024_infosec/tree/master/labs/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B8%D0%BD%D1%84%D0%BE%D0%B1%D0%B5%D0%B7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to my github with reports&lt;/a&gt;&lt;/p&gt;
@@ -37,6 +37,616 @@
 &lt;li&gt;learn to distinguish encryption from electronic signature&lt;/li&gt;
 &lt;li&gt;find out how electronic payments work&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;выполнение-заданий-модуля&#34;&gt;Выполнение заданий модуля&lt;/h2&gt;
+&lt;p&gt;Выполнение заданий. (рис. @fig:001, @fig:002, @fig:003, @fig:004, @fig:005, @fig:006, @fig:007, @fig:008, @fig:009, @fig:010, @fig:011, @fig:012, @fig:013, @fig:014, @fig:015, @fig:016, @fig:017, @fig:018, @fig:019, @fig:020, @fig:021).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hua2d4eaa9a14abf334bbabe2c4097e2d5_72072_d58d1354310fa37092fb3363809a4e54.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hua2d4eaa9a14abf334bbabe2c4097e2d5_72072_26989a045eb94903244dabd8bcab55f7.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hua2d4eaa9a14abf334bbabe2c4097e2d5_72072_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hua2d4eaa9a14abf334bbabe2c4097e2d5_72072_d58d1354310fa37092fb3363809a4e54.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;p&gt;Например, браузеры и веб-страницы используют протокол HTTP или его современную версию HTTPS. Ни для кого не секрет, что URL странички начинается с HTTP или HTTPS. S означает, что мы общаемся с веб-страницей по зашифрованному каналу. И более подробно мы рассмотрим протокол HTTPS в следующей лекции. Вообще, протокол HTTP(S) является примером протокола прикладного уровня, по которому передаются веб-страницы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu2a06064a0775570910101799e38191be_65695_476300be88e72acc080ef372c465e549.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu2a06064a0775570910101799e38191be_65695_e72cfe31268adc40759decf72808fbde.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu2a06064a0775570910101799e38191be_65695_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu2a06064a0775570910101799e38191be_65695_476300be88e72acc080ef372c465e549.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:002 width=70%}&lt;/p&gt;
+&lt;p&gt;Все эти протоколы прикладного уровня работают над транспортным уровнем, это следующий уровень в модели TCP/IP. Транспортный уровень обеспечивает передачу данных между процессами на одной машине или хосте (host).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu3beb03bc94c15909da0dc250c9713719_86341_fdfe0720cfe10db151b1fb892f03cc62.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu3beb03bc94c15909da0dc250c9713719_86341_fb562ddf8bea0370f87babdf2cf48605.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu3beb03bc94c15909da0dc250c9713719_86341_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu3beb03bc94c15909da0dc250c9713719_86341_fdfe0720cfe10db151b1fb892f03cc62.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:003 width=70%}&lt;/p&gt;
+&lt;p&gt;Существуют две версии адресации в протоколе IP. Популярный на сегодняшний день - это версия 4 адресации (IPv4), и этот адрес состоит из большего набора чисел, нежели порт в TCP протоколе, а именно это 4 числа от 0 до 255. Например, адрес IPv4 может выглядеть вот так: 192.168.1.4. Первые три числа - это номер сети. Если продолжать сравнение с почтовым адресом дома, то это по сути индекс и название улицы. Последняя цифра 4 - это номер хоста или номер дома. Хост - это, например, то устройство, которое раздает мне интернет, то есть мой роутер. Не всегда номер хоста - это последняя цифра из четырёх. Иногда, как правило, в больших сетях, корпоративных сетях, больше машин, больше компьютеров подключено к сети, нежели 255, тогда номер хоста в этой сети занимает еще и вторую справа цифру, то есть в нашем случае единичку. Определяет, где у нас в адресе есть номер сети, а где у нас номер хоста, маска сети. Это еще один номер, который добавляется к адресу IPv4, это просто указатель того, где происходит разделение между номером сети и номером хоста.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu3eb287ec51280259f31020797849d454_86462_0168aabbc306ebe704461b01d4839e93.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu3eb287ec51280259f31020797849d454_86462_e789741496f8b30d1531a0b4106f9884.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu3eb287ec51280259f31020797849d454_86462_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu3eb287ec51280259f31020797849d454_86462_0168aabbc306ebe704461b01d4839e93.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:004 width=70%}&lt;/p&gt;
+&lt;p&gt;Вопрос: откуда сеть знать, что, например, yandex.ru лежит по такому IP-адресу как 77.88.55.77? Для этого в сети есть сервер DNS, от английского Domain Name Server, а по-русски это сервер доменных имен. Доменное имя - это как раз таки то, что мы называем ссылкой - yandex.ru, google.com, mail.ru и так далее.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hu325e68e2e592ccdca0500385a7c1175a_68272_747573d209543960cbfe372973054b4b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hu325e68e2e592ccdca0500385a7c1175a_68272_6631f2c917785dd4d8f8d685ef3531de.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hu325e68e2e592ccdca0500385a7c1175a_68272_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hu325e68e2e592ccdca0500385a7c1175a_68272_747573d209543960cbfe372973054b4b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;288&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:005 width=70%}&lt;/p&gt;
+&lt;p&gt;Важно помнить, что работа сети Интернет описывается моделью TCP/IP, где TCP и IP - это название двух основных протоколов в Интернете. Он состоит из четырех различных уровней: это прикладной, транспортный, сетевой и канальный.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 6&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu46f725e643b69cd2d27316dc31edae08_97516_edf242fc0deedc3091747c50fc7221c4.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu46f725e643b69cd2d27316dc31edae08_97516_447d3b89ddfab5a22639ec5906e105d0.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu46f725e643b69cd2d27316dc31edae08_97516_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu46f725e643b69cd2d27316dc31edae08_97516_edf242fc0deedc3091747c50fc7221c4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:006 width=70%}&lt;/p&gt;
+&lt;p&gt;Браузеры и веб-страницы используют протокол HTTP или его современную версию HTTPS. Ни для кого не секрет, что URL странички начинается с HTTP или HTTPS. S означает, что мы общаемся с веб-страницей по зашифрованному каналу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 7&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hu4d3df52989964b2151237ee869b28bc3_71391_c3a2caa3c989e837631ab69c768bdd75.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hu4d3df52989964b2151237ee869b28bc3_71391_1a58de2ef4811dcd950722210513d270.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hu4d3df52989964b2151237ee869b28bc3_71391_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hu4d3df52989964b2151237ee869b28bc3_71391_c3a2caa3c989e837631ab69c768bdd75.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:007 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Базовые сетевые протоколы 8&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu60bb1fa70a18a60cbc47cab9142167f5_84428_4d9f7a45bb21793e656a6d89e1856de8.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu60bb1fa70a18a60cbc47cab9142167f5_84428_ecfbed3a9f94c00c2d65f2a37c0e3e36.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu60bb1fa70a18a60cbc47cab9142167f5_84428_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu60bb1fa70a18a60cbc47cab9142167f5_84428_4d9f7a45bb21793e656a6d89e1856de8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:008 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Персонализация сети 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu088c6d6abc547bf5f235c43c422fd59c_86927_a6c0d81f91efdb8b345e29380cf873fc.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu088c6d6abc547bf5f235c43c422fd59c_86927_3d49231371f06e7d1c52e107fa5ff629.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu088c6d6abc547bf5f235c43c422fd59c_86927_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu088c6d6abc547bf5f235c43c422fd59c_86927_a6c0d81f91efdb8b345e29380cf873fc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:009 width=70%}&lt;/p&gt;
+&lt;p&gt;Так вот, куки - это данные, которые передаются от сервера клиенту для его идентификации. Так, например, они сохраняют сессионную информацию. Куки, как правило, хранят в себе список параметров и их значений. Этими параметрами могут быть id пользователя, id сессии, иногда описан тип браузера и время запросов и некоторые действия пользователей&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Персонализация сети 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu404254d4c63403d25d26eb0a8a217f66_76722_9d4471ad0c34d4656067e0adef410227.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu404254d4c63403d25d26eb0a8a217f66_76722_c54cfea8b6752a3cc554e371fc1af65f.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu404254d4c63403d25d26eb0a8a217f66_76722_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu404254d4c63403d25d26eb0a8a217f66_76722_9d4471ad0c34d4656067e0adef410227.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:010 width=70%}&lt;/p&gt;
+&lt;p&gt;Куки хранят данные сессии и id, чтобы не приходилось, например, логиниться несколько раз подряд при обновлении страницы. Про производительность ничего сказано не было.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Персонализация сети 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hud75f463fd9b0140577bf36047423a894_56596_2e3cd805a5e9eb628cb12489b3360e95.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hud75f463fd9b0140577bf36047423a894_56596_8f2947a94278c0c15abd45bd87537ac6.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hud75f463fd9b0140577bf36047423a894_56596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hud75f463fd9b0140577bf36047423a894_56596_2e3cd805a5e9eb628cb12489b3360e95.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:011 width=70%}&lt;/p&gt;
+&lt;p&gt;Куки - это данные, которые передаются от сервера клиенту для его идентификации. Мы как пользователи не управляем, какой тип куки используется на конкретном сайте, этим занимается разработчик. То есть решил разработчик Фейсбука, что у него будут постоянные куки со сроком годности 24 часа, они у вас и будут.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Персонализация сети 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu11290fc94f87753aa1a4684dbcf55f06_77465_efb48e40195f745892508ef51f58c74a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu11290fc94f87753aa1a4684dbcf55f06_77465_bb0d43df4acaef2d7e55d7ecaf2100d2.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu11290fc94f87753aa1a4684dbcf55f06_77465_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu11290fc94f87753aa1a4684dbcf55f06_77465_efb48e40195f745892508ef51f58c74a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:012 width=70%}&lt;/p&gt;
+&lt;p&gt;Куки бывают сессионные; как правило, эти cookies используются при навигации на сайте и удаляются при закрытии окна браузера. То есть мы закрыли какое-то окно, интернет-магазин открыли заново - корзина пуста. Это означает, что в этом сайте, на этом сервере cookies куки сессионные. Ещё они бывают постоянные, как правило, они используются при аутентификации.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu819e6f9a20195f086667b7db13e98131_44971_69fd0bc246aaa241d047584da1a195b4.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu819e6f9a20195f086667b7db13e98131_44971_c39ee8088fd889d32d3a8536f3ee7fb6.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu819e6f9a20195f086667b7db13e98131_44971_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu819e6f9a20195f086667b7db13e98131_44971_69fd0bc246aaa241d047584da1a195b4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;269&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:013 width=70%}&lt;/p&gt;
+&lt;p&gt;В общем, в итоге отправитель сгенерировал общие ключи с тремя промежуточным узлами. Далее он шифрует свои данные под каждым из этих ключей.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hu96c39ac6355959047b4578e726da0664_82901_d6cea31c88e84b9fb61fb830d1697895.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hu96c39ac6355959047b4578e726da0664_82901_2ec483578487fae945c1a87cb5c79328.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hu96c39ac6355959047b4578e726da0664_82901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hu96c39ac6355959047b4578e726da0664_82901_d6cea31c88e84b9fb61fb830d1697895.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;331&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:014 width=70%}&lt;/p&gt;
+&lt;p&gt;Соответственно выходной узел, поскольку он является узлом перед получателем, знает, кому направлен пакет. Охранный узел знает, от кого пришёл пакет, поскольку он непосредственно является следующим узлом после отправителя, в то время как промежуточный узел не знает ни от кого этот пакет, ни кому он предназначен. В браузере Tor всегда есть три роутера, их не больше и не меньше. Их не меньше потому, что меньшего числа узлов не хватает для анонимизации, а большее число узлов не дает большую анонимизацию, поэтому выбирается всегда 3 луковых роутера.&lt;/p&gt;
+&lt;p&gt;Посмотрим теперь, за счет чего достигается конфиденциальность. Допустим, у нас с вами есть отправитель, мы обозначим его буквой S, и три узла: охранный A, промежуточный B и выходной C. Первым делом алгоритм выбирает выходной узел C, затем два других узла. Это выбирает встроенный алгоритм в вашем браузере, который знает, кому в итоге пакет должен прийти и какие узлы могут доставить ваш пакет тому, куда он должен прийти. Далее отправитель генерирует общие ключи с помощью определенного криптографического алгоритма, того же самого, который используется в TLS-протоколе. Он генерирует общие ключи последовательно с охранным узлом A, далее с промежуточным узлом B, а потом и с выходным узлом C. Вначале он непосредственно генерирует общий ключ KSA, то есть между отправителем S и охранным узлом A, потом охранный узел помогает сгенерировать общий ключ между S и между B, промежуточным узлом. Он перенаправляет данные, которые идут от отправителя к промежуточному узлу. Таким образом, охранный узел не знает, какой ключ между ними сгенерировался, то есть он не знает KSB. Однако он помогает при передаче публичной информации, с помощью которой два узла могут сгенерировать общий ключ. И то же самое с последним выходным узлом, тут уже и A, и B помогают перенаправлять данные в процессе генерации этого ключа.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu57f042c3804d440cb1c0296c92a46acc_83325_3720b83e3d370d33fe3209e0896418c0.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu57f042c3804d440cb1c0296c92a46acc_83325_a38cd59d2cb30175a0a7eb73ea720dc3.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu57f042c3804d440cb1c0296c92a46acc_83325_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu57f042c3804d440cb1c0296c92a46acc_83325_3720b83e3d370d33fe3209e0896418c0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:015 width=70%}&lt;/p&gt;
+&lt;p&gt;Отправитель генерирует общие ключи с помощью определенного криптографического алгоритма, того же самого, который используется в TLS-протоколе. Он генерирует общие ключи последовательно с охранным узлом A, далее с промежуточным узлом B, а потом и с выходным узлом C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Браузер TOR 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_huf43a8e40647ae56d423502c40a08f108_70362_6a889289a36598032317404a5bfcd0e2.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_huf43a8e40647ae56d423502c40a08f108_70362_026bf3762f7b7ec3a030c8f3a467a41d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_huf43a8e40647ae56d423502c40a08f108_70362_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_huf43a8e40647ae56d423502c40a08f108_70362_6a889289a36598032317404a5bfcd0e2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;332&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:016 width=70%}&lt;/p&gt;
+&lt;p&gt;Строго говоря, Tor — это ПО для установки анонимных сетевых соединений, которое использует технологию луковой маршрутизации. Мы можем пользоваться им как отправители, при этом не обязательно, чтобы у получателя тоже стоял тор.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Беспроводные сети Wi-Fi 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/17_hu4be4aeb6a8660d49dcd398fad0a3a86f_85587_5b2cd2297d00ca374525713e849e8e7d.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/17_hu4be4aeb6a8660d49dcd398fad0a3a86f_85587_fcbc1d5421345a40a1098b933fd0a81b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/17_hu4be4aeb6a8660d49dcd398fad0a3a86f_85587_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/17_hu4be4aeb6a8660d49dcd398fad0a3a86f_85587_5b2cd2297d00ca374525713e849e8e7d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:017 width=70%}&lt;/p&gt;
+&lt;p&gt;Вообще, WiFi - это технология беспроводной локальной сети, она основана на стандарте IEEE 802.11. IEEE – это организация, которая описывает вообще любые стандарты того, как работает интернет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Беспроводные сети Wi-Fi 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/18_hu35ca1c71136719f64132a56da2f70f85_66647_57373699b2aa10fbd6f042bea85c127c.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/18_hu35ca1c71136719f64132a56da2f70f85_66647_4208f1386fca76848cba165366381552.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/18_hu35ca1c71136719f64132a56da2f70f85_66647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/18_hu35ca1c71136719f64132a56da2f70f85_66647_57373699b2aa10fbd6f042bea85c127c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:018 width=70%}&lt;/p&gt;
+&lt;p&gt;WiFi работает на самом нижнем канальном уровне, на том же уровне, где работает протокол Ethernet (это протокол, обеспечивающий продвижение данных по проводу).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Беспроводные сети Wi-Fi 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/19_hu3c25f8c98eac8cbbd11ccf225ef8d8c9_64523_1e1436a67cd0cbbd4791f8e16b3e31c7.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/19_hu3c25f8c98eac8cbbd11ccf225ef8d8c9_64523_1909711a1a89cada7c94cbdf7498c004.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/19_hu3c25f8c98eac8cbbd11ccf225ef8d8c9_64523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/19_hu3c25f8c98eac8cbbd11ccf225ef8d8c9_64523_1e1436a67cd0cbbd4791f8e16b3e31c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:019 width=70%}&lt;/p&gt;
+&lt;p&gt;Самый ранний и на сегодняшний день небезопасный метод шифрования данных WiFi называется WEP. Он устарел и уже категорически не рекомендуется к использованию. Он устарел, в частности, потому, что использовал малую длину ключа: так, например, он использовал длину ключа в 40 бит, это довольно мало на сегодняшний день, он может быть легко взломан.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Беспроводные сети Wi-Fi 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/20_huf96ba89b1436b0e9be570bd798be11a9_91264_e5652b22911e05d4acbe95f8e2422a25.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/20_huf96ba89b1436b0e9be570bd798be11a9_91264_f5f616f7c89322c6838193b4335416e7.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/20_huf96ba89b1436b0e9be570bd798be11a9_91264_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/20_huf96ba89b1436b0e9be570bd798be11a9_91264_e5652b22911e05d4acbe95f8e2422a25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:020 width=70%}&lt;/p&gt;
+&lt;p&gt;Безопасность осуществляется на этом уровне с помощью шифрования и аутентификации&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Беспроводные сети Wi-Fi 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/21_hu89462089ba7483ff204594cf244f15de_67039_4f7d47dea04233d161bc08190760ff7d.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/21_hu89462089ba7483ff204594cf244f15de_67039_fc5bf42058e3e64857271970346cf141.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/21_hu89462089ba7483ff204594cf244f15de_67039_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/21_hu89462089ba7483ff204594cf244f15de_67039_4f7d47dea04233d161bc08190760ff7d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:021 width=70%}&lt;/p&gt;
+&lt;p&gt;Более современная версия аутентификации WPA3 доступна даже для домашних роутеров, недорогих. Также у WPA3 есть два варианта аутентификации: WPA2 Personal, WPA2 Enterprise. Важная особенность для обычного пользователя в этом методе аутентификации состоит в том, что мы можем брать даже небезопасные пароли такие, как 12345, хотя, конечно, лучше этого не делать, однако в алгоритмах WPA3 есть методы, которые позволяют сделать такой пароль немножко стойким.&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 
 
@@ -56,10 +666,1034 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sertificate&#34; srcset=&#34;
-               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_5a326fd8f694e1602dc0bd24478c4b82.webp 400w,
-               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7c4039f7d77fb4102f77cd11d8434e9d.webp 760w,
-               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_5a326fd8f694e1602dc0bd24478c4b82.webp&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_0cedd29ab71ffed308dbe35820debde8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-1-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basics of cybersecurity</title>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</guid>
+      <description>&lt;h2 id=&#34;basics-of-cybersecurity&#34;&gt;Basics of cybersecurity&lt;/h2&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://github.com/tsganina/study_2023-2024_infosec/tree/master/labs/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B8%D0%BD%D1%84%D0%BE%D0%B1%D0%B5%D0%B7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to my github with reports&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/vqHK4wEWnPFHuw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 1&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/f3m2CgGRGzTkIQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 2&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/75SrXbQBAw1ELw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 3&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;General information about the course&lt;/p&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;designed for any PC/smartphone/ATM user&lt;/li&gt;
+&lt;li&gt;contains lectures, additional reading materials and tests&lt;/li&gt;
+&lt;li&gt;third-party (free) software will be used in the lectures. It is not necessary to complete the course&lt;/li&gt;
+&lt;li&gt;consists of 3 modules + final test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Tasks&lt;/p&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;understand how the Internet works and what its “weak” points are&lt;/li&gt;
+&lt;li&gt;to clarify why 1245YOURNAME is a bad password&lt;/li&gt;
+&lt;li&gt;learn to distinguish encryption from electronic signature&lt;/li&gt;
+&lt;li&gt;find out how electronic payments work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выполнение-заданий-модуля&#34;&gt;Выполнение заданий модуля&lt;/h2&gt;
+&lt;p&gt;Выполнение заданий. (рис. @fig:001, @fig:002, @fig:003, @fig:004, @fig:005, @fig:006, @fig:007, @fig:008, @fig:009, @fig:010, @fig:011, @fig:012, @fig:013, @fig:014, @fig:015).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шифрование диска 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hu5cb841399ec56323963918a5d066275f_53491_9b7a3c9652f079bec3de00099dac2a1d.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hu5cb841399ec56323963918a5d066275f_53491_63f7e35d258f2d0c704523d2eb738935.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hu5cb841399ec56323963918a5d066275f_53491_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hu5cb841399ec56323963918a5d066275f_53491_9b7a3c9652f079bec3de00099dac2a1d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;p&gt;Программа берет этот ключ, берет наши данные, будь то весь жесткий диск или какой-то его сегмент или может быть даже загрузочный сегмент, и шифрует данные с помощью ключа. На выходе мы с вами получаем данные в зашифрованном виде.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шифрование диска 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu941c6d89a9bedbdea316ba46d4aa7add_69938_2576a1af110d8a9f52a90d4c2ae6dd32.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu941c6d89a9bedbdea316ba46d4aa7add_69938_c7d584d11f69302dd1e8636d00652021.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu941c6d89a9bedbdea316ba46d4aa7add_69938_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu941c6d89a9bedbdea316ba46d4aa7add_69938_2576a1af110d8a9f52a90d4c2ae6dd32.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:002 width=70%}&lt;/p&gt;
+&lt;p&gt;Шифрование больших объемов данных, например, жесткого диска или сегмента жесткого диска или какой-то большой флешки, осуществляется с помощью симметричного шифрования, как правило, алгоритма AES.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шифрование диска 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu2afaf35e8288a7e651848da7267079cf_90731_bffeb942a0e2e37b9e42db1684bb350c.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu2afaf35e8288a7e651848da7267079cf_90731_6a1e8a0ca64bcee5006d141b9bc98630.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu2afaf35e8288a7e651848da7267079cf_90731_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hu2afaf35e8288a7e651848da7267079cf_90731_bffeb942a0e2e37b9e42db1684bb350c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:003 width=70%}&lt;/p&gt;
+&lt;p&gt;Во всех популярных операционных системах есть встроенные утилиты, которые позволяют шифровать жесткий диск: для Windows этo Bitlocker, в Linux – LUKS, в MacOS – это FileVault. Кроме того, есть и сторонние опенсорсные (open source) программы, то есть бесплатные: это Veracrypt, PGPDisk, которые вы можете установить себе и использовать их для шифрования ваших жестких дисков, загрузочных секторов или флешек.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu2dcc59e125ebf422f1a8922cc8ad21cd_70684_5bca7af51977eb1002b0fa2c7e0ad36a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu2dcc59e125ebf422f1a8922cc8ad21cd_70684_c20034f9d2abf8515fba251c690188fb.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu2dcc59e125ebf422f1a8922cc8ad21cd_70684_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hu2dcc59e125ebf422f1a8922cc8ad21cd_70684_5bca7af51977eb1002b0fa2c7e0ad36a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:004 width=70%}&lt;/p&gt;
+&lt;p&gt;Основной критерий стойкости пароля - это сложность его перебора.
+Наверное, ни для кого не секрет, что пароль 12345, password, qwerty являются самыми частыми.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hud7bc91d713ca6878a2411bde4573a3c7_76000_65c0330845ea6f3ba9483487074f5063.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hud7bc91d713ca6878a2411bde4573a3c7_76000_7629a4a59409f843a45ae9f1b212c0a5.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hud7bc91d713ca6878a2411bde4573a3c7_76000_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_hud7bc91d713ca6878a2411bde4573a3c7_76000_65c0330845ea6f3ba9483487074f5063.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:005 width=70%}&lt;/p&gt;
+&lt;p&gt;Понятно, что нужно использовать длинные пароли с максимально большим алфавитом, хранить их стоит в менеджерах паролей, пароли нужно менять достаточно регулярно, особенно к таким критическим сервисам, как почта.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu613adc078c450499929dd5f186fe99e0_75909_514bab0a235296a7ac1068f4c98bc73a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu613adc078c450499929dd5f186fe99e0_75909_36bc4d381f5c2114a2caf46c22ef3e71.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu613adc078c450499929dd5f186fe99e0_75909_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu613adc078c450499929dd5f186fe99e0_75909_514bab0a235296a7ac1068f4c98bc73a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:006 width=70%}&lt;/p&gt;
+&lt;p&gt;Капча - это аббревиатура с английского; это тест для определения, является ли пользователь, который общается с веб-сервисом, человеком или компьютером, ботом, которой пытается просто-напросто перебрать все пароли. После того, как мы ввели имя пользователя и пароль, часто помимо этого нас еще какой-то веб-сайт спрашивает какой-то тест, в котором мы должны там увидеть какие-то плохо написанные буквы или символы, и цель этого - отличить нас от компьютера, который пытается автоматически перебрать пароли конкретного пользователя или даже в сумме пользователя и пароля, просто пусть какой-то доступ к ресурсу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_huaf7991dd20825973bd0f4c80dfc04860_84292_8f18b45e8ba34d241cf9d98afbaf3e60.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_huaf7991dd20825973bd0f4c80dfc04860_84292_b49b9b85de3bec9d3c24e1e2ac17c2cd.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_huaf7991dd20825973bd0f4c80dfc04860_84292_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_huaf7991dd20825973bd0f4c80dfc04860_84292_8f18b45e8ba34d241cf9d98afbaf3e60.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:007 width=70%}&lt;/p&gt;
+&lt;p&gt;Хэш-функцию используют для проверки целостности передаваемых, зашифрованных сообщений, для хранения паролей на сервере, и для так называемых протоколов доказательства работы или proof of work: это используется в биткоине для майнинга.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hue88adab45380a63fb45e1f84bae14fda_56868_a25475bea256129135781f74b658296e.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hue88adab45380a63fb45e1f84bae14fda_56868_1a50c87016a8262862353a0b81748c45.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hue88adab45380a63fb45e1f84bae14fda_56868_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hue88adab45380a63fb45e1f84bae14fda_56868_a25475bea256129135781f74b658296e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;282&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:008 width=70%}&lt;/p&gt;
+&lt;p&gt;Соль &amp;ldquo;подсыпает&amp;rdquo; сервер, поэтому если есть доступ к серверу, то и доступ к хэшу, и к соли у него тоже будет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Пароли 6&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hue71e4b2cf39a438f69d5288da3f308cb_89958_0336afc4e58d5970e6a8055b5b973dd9.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hue71e4b2cf39a438f69d5288da3f308cb_89958_a0c3139dcd2e3cba69acb31721ee8800.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hue71e4b2cf39a438f69d5288da3f308cb_89958_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hue71e4b2cf39a438f69d5288da3f308cb_89958_0336afc4e58d5970e6a8055b5b973dd9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:009 width=70%}&lt;/p&gt;
+&lt;p&gt;Понятно, что нужно использовать длинные пароли с максимально большим алфавитом, хранить их стоит в менеджерах паролей, пароли нужно менять достаточно регулярно, особенно к таким критическим сервисам, как почта. Политика (особенно больших компаний) по безопасности состоит в том, что пароли нужно менять. И для разных сайтов, и для разных программ нужно использовать разные пароли, поскольку компрометация одного из них может вести к компрометации всех остальных, если вы используете одинаковые пароли.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Фишинг 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu779bc8e87c3c7ab5a8a1c78f8c0ec2d9_122439_f9dd6a87b5e159e3289eff2c523b22cf.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu779bc8e87c3c7ab5a8a1c78f8c0ec2d9_122439_de41cc35718deae05194cfa604ba2367.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu779bc8e87c3c7ab5a8a1c78f8c0ec2d9_122439_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu779bc8e87c3c7ab5a8a1c78f8c0ec2d9_122439_f9dd6a87b5e159e3289eff2c523b22cf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:010 width=70%}&lt;/p&gt;
+&lt;p&gt;Другой пример фишинга - эта маскировка под известные веб-сайты только с другим доменным именем, начало может быть одинаковое или середина. В моем примере с vk.com понятно, на какой сервис это ссылается, ну а потом идет какая-то белиберда, которая не имеет ничего общего с реальной ссылкой. Естественно, никакие данные вводить сюда нельзя, но и более того, заметьте, что соединение вот с этим сайтом произошло не по HTTPS протоколу, а по небезопасному HTTP протоколу, это тоже звоночек, потому что с этого сайта лучше побыстрее уйти.&lt;/p&gt;
+&lt;p&gt;wix.ru&lt;/p&gt;
+&lt;p&gt;ucoz.ru&lt;/p&gt;
+&lt;p&gt;Это звоночки фишинга.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Фишинг 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu9b99d6b8538cd002d3c0dda826e6c7d5_57363_3a63355ad2038f95bfe418db31258110.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu9b99d6b8538cd002d3c0dda826e6c7d5_57363_98b31811625ab292a8c0dd95cf9c053d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu9b99d6b8538cd002d3c0dda826e6c7d5_57363_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu9b99d6b8538cd002d3c0dda826e6c7d5_57363_3a63355ad2038f95bfe418db31258110.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;312&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:011 width=70%}&lt;/p&gt;
+&lt;p&gt;Можем ли мы получить вот такое фишинговое письмо от отправителя, которого мы знаем? Это называется email spoofing/спуфинг от английского spoof – подменить. И спуфинг – это глобальный термин атак, есть IP spoofing - это подмена IP-адреса, есть email spoofing - подмена адреса отправителя.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вирусы 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu4d1e0a30a31fbf98c5e5350450f3d792_70278_55446f68ad597db51fb7793646d6ea58.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu4d1e0a30a31fbf98c5e5350450f3d792_70278_ba2909d8715583fb8ee70e784078b8a1.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu4d1e0a30a31fbf98c5e5350450f3d792_70278_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu4d1e0a30a31fbf98c5e5350450f3d792_70278_55446f68ad597db51fb7793646d6ea58.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;320&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:012 width=70%}&lt;/p&gt;
+&lt;p&gt;Это называется email spoofing/спуфинг от английского spoof – подменить. И спуфинг – это глобальный термин атак, есть IP spoofing - это подмена IP-адреса, есть email spoofing - подмена адреса отправителя.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вирусы 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu9e5f60f0c8569fdfa7c910734960351c_87631_2e5b488bf3825c1dc20a81c1d9759d51.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu9e5f60f0c8569fdfa7c910734960351c_87631_96d5028747f86a40bf19f6606d3ca651.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu9e5f60f0c8569fdfa7c910734960351c_87631_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_hu9e5f60f0c8569fdfa7c910734960351c_87631_2e5b488bf3825c1dc20a81c1d9759d51.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:013 width=70%}&lt;/p&gt;
+&lt;p&gt;Троян - это вирус, который проникает в систему под видом какого-то легитимного программного обеспечения, это аллюзия к троянскому коню.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Безопасность мессенджеров 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hue548a191ec5964edf70069e2e5eaad5e_95470_69dcaa0df89d0c8f94d30958dde329a1.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hue548a191ec5964edf70069e2e5eaad5e_95470_2c25acbe45d9701526df2778562c0510.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hue548a191ec5964edf70069e2e5eaad5e_95470_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hue548a191ec5964edf70069e2e5eaad5e_95470_69dcaa0df89d0c8f94d30958dde329a1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:014 width=70%}&lt;/p&gt;
+&lt;p&gt;Вначале мы генерируем общий ключ, для этого опять же рассмотрим 2 людей, 2 смартфона - Алиса и Боб. Алиса хочет отправить какое-то сообщение Бобу. Что делает Боб? Боб публикует на сервере свою открытую информацию, то есть открытый кусочек своего ключа. Если Алиса хочет отправить какое-то сообщение Бобу, она берет этот открытый кусочек ключа от Боба, генерирует общий ключ и с помощью этого общего ключа отправляет сообщение уже зашифрованное под этим общим ключом Бобу. Кроме этого зашифрованного сообщения, она отправляет Бобу свой кусочек открытого ключа, при этом Боб, получив этот кусочек открытого ключа, имея какую-то свою секретную информацию, формирует тот же самый общий ключ, с помощью которого Алиса шифровала сообщение. Получив зашифрованное сообщение и вычислив общий ключ, Боб может уже дешифровать корректно это сообщение.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Безопасность мессенджеров 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu8f7100746c9cd81c56f0701eb53baf98_109849_4c7575ed4fa339e186fc9aa95665fb07.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu8f7100746c9cd81c56f0701eb53baf98_109849_aa4473e7ec91143ee98cefe810cd3bd0.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu8f7100746c9cd81c56f0701eb53baf98_109849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_hu8f7100746c9cd81c56f0701eb53baf98_109849_4c7575ed4fa339e186fc9aa95665fb07.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:015 width=70%}&lt;/p&gt;
+&lt;p&gt;Достигается она с помощью, во-первых, сквозного шифрования - это парадигма большого числа безопасных коммуникаций; сквозное шифрование - по-английски E2E или End-to-End encryption. Суть довольно простая: у нас есть два участника - Алиса и Боб, A и B, и сквозное шифрование заключается в том, что сервер, который передает сообщение, который направляет сообщение от Алисы к Бобу или от Бобу к Алисе, знает только то, куда эти сообщения должны быть направлены, но сообщения он передает в зашифрованном виде, то есть он как бы работает маршрутизатором  сообщений, не зная о том, что он передает. Что происходит, если мы хотим отправить сообщение от Алисы к Бобу? Алиса шифрует свои данные, кладет на сервере шифр-текст с пометкой, что этот шифр-текст предназначен для Боба. Когда Боб заходит в сеть, сервер видит: «Ага, Боб зашел в сеть, надо обновить его сообщение», и отправляет шифр-текст от Алисы. Боб получает этот шифр-текст, дешифрует его, получает сообщение в открытом виде. При этом сервер не знает ни ключ, с помощью которого Алиса шифровала, ни тем более сообщение в открытом виде.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sertificate&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_0cedd29ab71ffed308dbe35820debde8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basics of cybersecurity</title>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/</guid>
+      <description>&lt;h2 id=&#34;basics-of-cybersecurity&#34;&gt;Basics of cybersecurity&lt;/h2&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://github.com/tsganina/study_2023-2024_infosec/tree/master/labs/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B8%D0%BD%D1%84%D0%BE%D0%B1%D0%B5%D0%B7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to my github with reports&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/vqHK4wEWnPFHuw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 1&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/f3m2CgGRGzTkIQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 2&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://disk.yandex.ru/i/75SrXbQBAw1ELw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report 3&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;General information about the course&lt;/p&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;designed for any PC/smartphone/ATM user&lt;/li&gt;
+&lt;li&gt;contains lectures, additional reading materials and tests&lt;/li&gt;
+&lt;li&gt;third-party (free) software will be used in the lectures. It is not necessary to complete the course&lt;/li&gt;
+&lt;li&gt;consists of 3 modules + final test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Tasks&lt;/p&gt;
+&lt;ul style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;understand how the Internet works and what its “weak” points are&lt;/li&gt;
+&lt;li&gt;to clarify why 1245YOURNAME is a bad password&lt;/li&gt;
+&lt;li&gt;learn to distinguish encryption from electronic signature&lt;/li&gt;
+&lt;li&gt;find out how electronic payments work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выполнение-заданий-модуля&#34;&gt;Выполнение заданий модуля&lt;/h2&gt;
+&lt;p&gt;Выполнение заданий. (рис. @fig:001, @fig:002, @fig:003, @fig:004, @fig:005, @fig:006, @fig:007, @fig:008, @fig:009, @fig:010, @fig:011, @fig:012, @fig:013, @fig:014, @fig:015, @fig:016).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Введение в криптографию 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hue80b6e5b7da0bcca5781f4e28d5d3e5b_99981_840981319ac275a55d47053faec1b6ad.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hue80b6e5b7da0bcca5781f4e28d5d3e5b_99981_f9dd7d4f202091e839c4c5e28bf7d4cf.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hue80b6e5b7da0bcca5781f4e28d5d3e5b_99981_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/1_hue80b6e5b7da0bcca5781f4e28d5d3e5b_99981_840981319ac275a55d47053faec1b6ad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;p&gt;В асимметричной криптографии (её еще называют криптографией с открытым ключом) у каждой из сторон есть пара ключей: открытый ключ и секретный ключ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Введение в криптографию 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu43ce20b6810f0a60a37add2aff3193e8_112271_dd5f8469d0dd270b82b386683978b573.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu43ce20b6810f0a60a37add2aff3193e8_112271_ae5b29126ef05a1d0ea4becdb7849536.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu43ce20b6810f0a60a37add2aff3193e8_112271_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/2_hu43ce20b6810f0a60a37add2aff3193e8_112271_dd5f8469d0dd270b82b386683978b573.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:002 width=70%}&lt;/p&gt;
+&lt;p&gt;Криптографическая хэш-функция берет на вход произвольный объем данных, то есть какие-то биты и выдает на выходе фиксированную строку, например длины n. Важно, что, как правило, функция сжимает данные: она берет большой набор данных и выдаёт потом маленькое фиксированное значение.
+Важное свойство криптографической хэш-функций, то, что делает её криптографической – это стойкость к коллизиям.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Введение в криптографию 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hue144754239fc0bb32cd028d1003c032f_89270_db55917496cb1d0c12c5771c39de1f01.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hue144754239fc0bb32cd028d1003c032f_89270_f3a0b76f34a710ad36cc8f29445c1fdd.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hue144754239fc0bb32cd028d1003c032f_89270_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/3_hue144754239fc0bb32cd028d1003c032f_89270_db55917496cb1d0c12c5771c39de1f01.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;542&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:003 width=70%}&lt;/p&gt;
+&lt;p&gt;К примерам цифровой подписи относятся интернет-сертификаты, подпись RSA, американский стандарт ECDSA и отечественный стандарт ГОСТ стандарт P 34.20.2012.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Введение в криптографию 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hua4c17d561c8befb1d9bb2e80d6353e8f_75548_f215729f2996c61582dcee6597e1a1c0.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hua4c17d561c8befb1d9bb2e80d6353e8f_75548_4d67c1bfabb6b9e07016ee135f800b32.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hua4c17d561c8befb1d9bb2e80d6353e8f_75548_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/4_hua4c17d561c8befb1d9bb2e80d6353e8f_75548_f215729f2996c61582dcee6597e1a1c0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:004 width=70%}&lt;/p&gt;
+&lt;p&gt;Как правило, код аутентификации сообщения строится с помощью хэш-функции или симметричного шифрования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Введение в криптографию 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_huecc617dbd7e8935dc235095edeb73698_95778_c68f57ba978e431fc9649529d8a76597.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_huecc617dbd7e8935dc235095edeb73698_95778_cdec11249d0b87fd4741fce43a54b4d8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_huecc617dbd7e8935dc235095edeb73698_95778_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/5_huecc617dbd7e8935dc235095edeb73698_95778_c68f57ba978e431fc9649529d8a76597.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;393&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:005 width=70%}&lt;/p&gt;
+&lt;p&gt;Самым популярным примером протокола обмена ключами является протокол Диффи-Хэллмана, как раз он, либо его модификации используются в современных мессенджерах и в протоколе TLS для того, чтобы мы смогли сгенерировать общий секретный ключ и дальше шифровать наши данные с помощью симметричного алгоритма, то есть с помощью ключа skAB. Если реализовать генерацию общего ключа так, как она описана у Диффи-Хэллмана, мы получим довольно слабый протокол, нестойкий к активным злоумышленникам. Сделать этот протокол стойким к активным злоумышленникам помогает цифровая подпись.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровая подпись 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu709cf7256304fb38e38232a36c7deb6e_78860_c2cee7ef9eaacc4eaca402e739c4919b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu709cf7256304fb38e38232a36c7deb6e_78860_ac6ad09fef37d40eb1b4b13a96d20c0a.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu709cf7256304fb38e38232a36c7deb6e_78860_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/6_hu709cf7256304fb38e38232a36c7deb6e_78860_c2cee7ef9eaacc4eaca402e739c4919b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;365&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:006 width=70%}&lt;/p&gt;
+&lt;p&gt;Если говорить более формально о том, что такое электронно-цифровая подпись, то это криптографический примитив, который состоит из трех эффективных алгоритмов. Эффективный алгоритм означает, что мы можем быстро его запустить на не сильно мощной машине. Первый алгоритм занимается генерацией ключей, он генерирует публичный ключ и секретный ключ. Публичный ключ мы держим в открытом доступе, секретный ключ – у себя, никому не показываем. Секретный ключ еще называется подписывающим ключом, а открытый – проверяющим или ключом верификации. Второй алгоритм – это генерация подписи, которая берет на вход сообщение и секретный ключ и выдает нам подпись. И третий – это верификация подписи, которая берёт на вход подпись, сообщение и открытый ключ и выдает нам либо тот факт, что подпись верна, либо тот факт, что подпись неверна.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровая подпись 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hud625c9db1609472621600768e6634504_85710_91407cd443667ec747715b0929759e11.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hud625c9db1609472621600768e6634504_85710_22290da20843de4988dcb003f3010cc8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hud625c9db1609472621600768e6634504_85710_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/7_hud625c9db1609472621600768e6634504_85710_91407cd443667ec747715b0929759e11.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:007 width=70%}&lt;/p&gt;
+&lt;p&gt;Верификация подписи берёт на вход подпись, сообщение и открытый ключ и выдает нам либо тот факт, что подпись верна, либо тот факт, что подпись неверна.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровая подпись 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu9d416755d274fb47b50da9a655acf59b_77440_af184ce7cd491d7c868cc534889197ac.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu9d416755d274fb47b50da9a655acf59b_77440_ffe8b7c6f82491f4e57621caa4cb7432.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu9d416755d274fb47b50da9a655acf59b_77440_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/8_hu9d416755d274fb47b50da9a655acf59b_77440_af184ce7cd491d7c868cc534889197ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;359&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:008 width=70%}&lt;/p&gt;
+&lt;p&gt;Цифровая подпись предназначена, во-первых, для обеспечения целостности сообщения, иными словами, если сообщение в процессе передачи было изменено, то подпись этого измененного сообщения будет проверена некорректно, то есть при проверке корректности подписи мы узнаем о том, что сообщение было изменено.
+Во-вторых, цифровая подпись обеспечивает аутентификацию сообщения, то есть мы можем установить принадлежность подписи владельцу, иными словами, никто другой не смог бы поставить такую подпись под этим сообщением.
+Ну и последнее, третье – это неотказ от авторства, то есть как только подпись подписана, подписавший её человек не может отказаться от того факта, что он ее подписал.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровая подпись 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu5e3dcf676743d129b9c9ee9c585aad22_82656_2e3705170392fc6d5e2adb281d7b8f63.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu5e3dcf676743d129b9c9ee9c585aad22_82656_99959710d111444f714376fed7df8957.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu5e3dcf676743d129b9c9ee9c585aad22_82656_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/9_hu5e3dcf676743d129b9c9ee9c585aad22_82656_2e3705170392fc6d5e2adb281d7b8f63.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;365&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:009 width=70%}&lt;/p&gt;
+&lt;p&gt;Что касается усиленной квалифицированной подписи, эта подпись уже имеет юридическую силу, она, как правило, равнозначна рукописной.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Цифровая подпись 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu5c1fb0c450b480d80368fb60be3fffa8_99001_b4dc3d290278147978966285ff997599.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu5c1fb0c450b480d80368fb60be3fffa8_99001_a19801522954d52db180fdc92673e363.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu5c1fb0c450b480d80368fb60be3fffa8_99001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/10_hu5c1fb0c450b480d80368fb60be3fffa8_99001_b4dc3d290278147978966285ff997599.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:010 width=70%}&lt;/p&gt;
+&lt;p&gt;А вот что касается усиленной квалифицированной подписи, эта подпись уже имеет юридическую силу, она, как правило, равнозначна рукописной. Для того, чтобы получить такую подпись, вам нужно пойти со своим паспортом и с другими данными в сертификационный центр, который должен быть аккредитован конкретным министерством. Такие подписи используются на Госуслугах, в государственном документообороте.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Электронные платежи 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu754a9787e0ed942e4b93a1d96815f563_93537_226ef23051bd295ebf02846b24362b3d.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu754a9787e0ed942e4b93a1d96815f563_93537_7a454d7cf60ee28946a1d2bcacd36d15.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu754a9787e0ed942e4b93a1d96815f563_93537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/11_hu754a9787e0ed942e4b93a1d96815f563_93537_226ef23051bd295ebf02846b24362b3d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;556&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:011 width=70%}&lt;/p&gt;
+&lt;p&gt;Домен совместимости (за этот домен отвечает платежная система, которая поддерживает ваш банк-эмитент, работающий в фоне всех ваших транзакций – их много, например, Visa, Mastercard, МИР)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Электронные платежи 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu34ed027cfb3b97fd96016ff02c330b92_92120_94912414e114b5bceccd9a32a66b5274.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu34ed027cfb3b97fd96016ff02c330b92_92120_8aac3ee4de0998802da60e6e2f113a60.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu34ed027cfb3b97fd96016ff02c330b92_92120_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/12_hu34ed027cfb3b97fd96016ff02c330b92_92120_94912414e114b5bceccd9a32a66b5274.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:012 width=70%}&lt;/p&gt;
+&lt;p&gt;Многократная аутентификация заключается в том, что мы доказываем в ходе этого протокола несколько вещей есть. Основные категории вещей, которые мы можем доказать: 1) то, что я знаю – это либо пароль, либо PIN-код, либо в случае онлайн-платежей это секретный код, 2) конкретно в онлайн-платежах мы еще используем второй фактор – это то, чем я владею, например, телефон, именно поэтому нам часто приходит код, который вы должны подтвердить или вбить в ваш браузер, 3) другой фактор аутентификации – это свойства, например, биометрия, опечаток пальца, сетчатки глаза, 4) четвертый фактор аутентификации – локация. Способ аутентификации, как правило, выбирается банком.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Электронные платежи 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_huad0ac2ed85681d832877e80d05b81b9e_103900_2a666ed70592887f7709ff8e4a10e941.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_huad0ac2ed85681d832877e80d05b81b9e_103900_d17aafdab3b2c0fb87417909ae5b97cb.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_huad0ac2ed85681d832877e80d05b81b9e_103900_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/13_huad0ac2ed85681d832877e80d05b81b9e_103900_2a666ed70592887f7709ff8e4a10e941.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:013 width=70%}&lt;/p&gt;
+&lt;p&gt;В аутентификации при покупке утверждение, которое я как покупатель хочу доказать, это то, что это моя карта и она мне принадлежит. Вообще, аутентификация может осуществляться не только при покупке, онлайн-платежах, она может осуществляется, когда мы открываем свою машину бесконтактным ключом, мы тоже пытаемся себя аутентифицировать.
+Также важно помнить что, существует платежная система без двойной аутентификации, раньше они были популярны, сейчас, скорее всего, они уже менее популярны, это карточки Visa Electron, MasterCard Maestro, с помощью этих карт нельзя осуществлять онлайн-платежи, в потому что эти карты не поддерживают двойную аутентификацию, но как минимум двойная аутентификация должна быть поддержана, если мы хотим оплачивать покупки онлайн.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Блокчейн 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hua5ab9f4059e9cfb6a2c770afc2625fa7_89988_f88cd3eddcee49445543ce908c58e7db.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hua5ab9f4059e9cfb6a2c770afc2625fa7_89988_4897f3d03ea4d4e90edcfd51df25e132.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hua5ab9f4059e9cfb6a2c770afc2625fa7_89988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/14_hua5ab9f4059e9cfb6a2c770afc2625fa7_89988_f88cd3eddcee49445543ce908c58e7db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:014 width=70%}&lt;/p&gt;
+&lt;p&gt;На сегодняшний день самый современный протокол - это доказательство работы или proof of work. В этом случае мы говорим о вычислительных ресурсах, в которых все майнеры ограничены. Для того, чтобы доказать, что майнер сделал какую-то работу, чтобы сформировать блок, ему нужно решить некоторую нетривиальную задачу. Выбирается специальная задача, о которой мы знаем, что потребуется как минимум столько-то времени, чтобы ее решить. Тот майнер, который первый решает эту задачу, имеет право добавить блок в блокчейн. Он потратил какие-то свои ресурсы вычислительные, электроэнергию, и он за нее получает награду.&lt;/p&gt;
+&lt;p&gt;Такое доказательство применяется сегодня в биткоине, основным его недостатком является высокая энергопотребляемость.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Блокчейн 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_huc3182d4b844c132408e6d7fe97ddf478_81182_acf03265a277d97db9c34e515717e098.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_huc3182d4b844c132408e6d7fe97ddf478_81182_6811b43cf454e2da677af0f87ed9e0c0.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_huc3182d4b844c132408e6d7fe97ddf478_81182_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/15_huc3182d4b844c132408e6d7fe97ddf478_81182_acf03265a277d97db9c34e515717e098.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:015 width=70%}&lt;/p&gt;
+&lt;p&gt;Первое - это постоянство, то есть когда-либо добавленНые данные не должны быть удалены из этой структуры. Второе - это сам консенсус, то есть все участники видят одни и те же данные и соглашаются с одним и теми же данными, исключением могут быть последние пары блоков, то есть последние изменения в этом блокчейне, в этой публичной структуре данных. Третье - это живучесть, это означает, что мы можем добавлять новые транзакции, когда хотим, мы можем осуществлять платежи, когда хотим. И последнее четвертое свойство - это открытость, то есть любой человек может быть участником блокчейна. Это справедливо не для всех блокчейнов, для биткоина это справедливо.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Блокчейн 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_hu0b0736af480a5aa23a5530a10fd4a7db_79927_1eeb85a761617ff96a299ced21dc703a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_hu0b0736af480a5aa23a5530a10fd4a7db_79927_c92f4aefd64af3590edd327ed41ea741.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_hu0b0736af480a5aa23a5530a10fd4a7db_79927_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/image/16_hu0b0736af480a5aa23a5530a10fd4a7db_79927_1eeb85a761617ff96a299ced21dc703a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:016 width=70%}&lt;/p&gt;
+&lt;p&gt;Допустим, у нас вами есть в блокчейне 3 участника, которые обмениваются друг с другом транзакциями. Важно то, что у каждого участника есть свой секретный ключ, и своим секретным ключом мы всегда будем подтверждать какую-то транзакцию. Важно то, что этот ключ у нас секретный, мы его используем для подписи. Подпись – это и есть подтверждение моей транзакции.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sertificate&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_0cedd29ab71ffed308dbe35820debde8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C/1_hude48791abb6f8c6ec649ce21dcfc177c_100883_7929a134f22de264a1db6ae4ddfd0810.webp&#34;
                width=&#34;760&#34;
                height=&#34;388&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
