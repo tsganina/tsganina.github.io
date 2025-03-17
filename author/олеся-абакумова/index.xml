@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Олеся Абакумова | Групповой проект</title>
+    <link>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/</link>
+      <atom:link href="http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Олеся Абакумова</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <image>
+      <url>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/avatar_huad69858ad187965e7dbf2101bce2426c_305001_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Олеся Абакумова</title>
+      <link>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/</link>
+    </image>
+    
+  </channel>
+</rss>
