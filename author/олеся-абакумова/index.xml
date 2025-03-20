@@ -5,12 +5,28 @@
     <link>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/</link>
       <atom:link href="http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>Олеся Абакумова</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/avatar_huad69858ad187965e7dbf2101bce2426c_305001_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Олеся Абакумова</title>
       <link>http://localhost:1313/author/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%B0%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2%D0%B0/</link>
     </image>
+    
+    <item>
+      <title>Первый этап проекта</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/788dee8b205f93e2e96f20755d11afa1/&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

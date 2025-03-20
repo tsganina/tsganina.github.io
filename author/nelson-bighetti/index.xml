@@ -5,12 +5,28 @@
     <link>http://localhost:1313/author/nelson-bighetti/</link>
       <atom:link href="http://localhost:1313/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Nelson Bighetti</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/nelson-bighetti/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/nelson-bighetti/avatar_hue9333c0b386db4daeb107233cffadfd6_208268_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nelson Bighetti</title>
       <link>http://localhost:1313/author/nelson-bighetti/</link>
     </image>
+    
+    <item>
+      <title>Первый этап проекта</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/788dee8b205f93e2e96f20755d11afa1/&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
