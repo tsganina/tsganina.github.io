@@ -5,7 +5,7 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Последние события</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 22 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>Последние события</title>
@@ -14,17 +14,41 @@
     
     <item>
       <title>Первый этап проекта</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/788dee8b205f93e2e96f20755d11afa1/&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+      <link>http://localhost:1313/event/1-step/</link>
+      <pubDate>Sat, 22 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/1-step/</guid>
+      <description>&lt;h2 id=&#34;видеопрезентация-первого-этапа-группового-проекта&#34;&gt;Видеопрезентация первого этапа группового проекта:&lt;/h2&gt;
+&lt;p&gt;&amp;lt;Тут будет видео&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;
+&lt;p&gt;Студенты группы НФИбд-01/02-22:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Абакумова Олеся Максимовна&lt;/li&gt;
+&lt;li&gt;Астраханцева Анастасия Александровна&lt;/li&gt;
+&lt;li&gt;Ганина Таисия Сергеевна&lt;/li&gt;
+&lt;li&gt;Ибатулина Дарья Эдуардовна&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;h2 id=&#34;постановка-проблемы&#34;&gt;Постановка проблемы&lt;/h2&gt;
+&lt;p&gt;Моделирование газовых потоков и жидкостей традиционными методами, такими как уравнения Навье-Стокса, требует значительных вычислительных ресурсов.&lt;/p&gt;
+&lt;p&gt;Методы LGA и LBE предлагают альтернативу, упрощая вычисления при сохранении физической достоверности.&lt;/p&gt;
+&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Исследования сложных многокомпонентных течений.&lt;/li&gt;
+&lt;li&gt;Течений с фазовыми переходами и химическими реакциями.&lt;/li&gt;
+&lt;li&gt;Создания высокопроизводительных параллельных алгоритмов.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;объект-и-предмет-исследования&#34;&gt;Объект и предмет исследования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;физические процессы в газах и жидкостях&lt;/li&gt;
+&lt;li&gt;использование решеточных методов (LGA и LBE) для описания динамики частиц на дискретной сетке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;цели-и-задачи&#34;&gt;Цели и задачи&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Цель работы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Разработать и проанализировать модель на основе решеточного уравнения Больцмана для описания течений газа.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Формулировка научной проблемы&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Теоретическое описание задачи&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Описание модели&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
