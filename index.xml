@@ -516,33 +516,9 @@ $f_k(x, t + \Delta t) = f^&lt;em&gt;_k(x, t + \Delta t) + (f^{eq}_k (u + \Delta 
     </item>
     
     <item>
-      <title>Команда</title>
-      <link>http://localhost:1313/people/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>О проекте</title>
-      <link>http://localhost:1313/tour/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Контакты</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Опубликован первый этап проекта</title>
       <link>http://localhost:1313/post/1step/</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/1step/</guid>
       <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
 &lt;p&gt;Разработать и проанализировать модель на основе решеточного уравнения Больцмана для описания течений газа.&lt;/p&gt;
@@ -561,17 +537,9 @@ $f_k(x, t + \Delta t) = f^&lt;em&gt;_k(x, t + \Delta t) + (f^{eq}_k (u + \Delta 
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Решеточные газы, решеточное уравнение Больцмана</title>
       <link>http://localhost:1313/slides/1stepslides/1stepslides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/slides/1stepslides/1stepslides/</guid>
       <description>&lt;h1 id=&#34;вводная-часть&#34;&gt;Вводная часть&lt;/h1&gt;
 &lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;
@@ -955,6 +923,38 @@ $u^* = \frac{u + (u + \Delta u)}{2} = u + \frac{\Delta u}{2}$&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.20948/prepr-2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чащин Г.С. Метод решёточных уравнений Больцмана: моделирование изотермических низкоскоростных течений&lt;/a&gt; // &lt;a href=&#34;https://library.keldysh.ru/preprint.asp?id=2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Препринты ИПМ им. М.В.Келдыша. 2021. № 99. 31 с.&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Команда</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>О проекте</title>
+      <link>http://localhost:1313/tour/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>

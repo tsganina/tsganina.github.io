@@ -5,7 +5,7 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Новости</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>Новости</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Опубликован первый этап проекта</title>
       <link>http://localhost:1313/post/1step/</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/1step/</guid>
       <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
 &lt;p&gt;Разработать и проанализировать модель на основе решеточного уравнения Больцмана для описания течений газа.&lt;/p&gt;

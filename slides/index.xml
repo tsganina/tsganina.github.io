@@ -5,7 +5,7 @@
     <link>http://localhost:1313/slides/</link>
       <atom:link href="http://localhost:1313/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>Slides</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Решеточные газы, решеточное уравнение Больцмана</title>
       <link>http://localhost:1313/slides/1stepslides/1stepslides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/slides/1stepslides/1stepslides/</guid>
       <description>&lt;h1 id=&#34;вводная-часть&#34;&gt;Вводная часть&lt;/h1&gt;
 &lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;

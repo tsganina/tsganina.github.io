@@ -515,5 +515,415 @@ $f_k(x, t + \Delta t) = f^&lt;em&gt;_k(x, t + \Delta t) + (f^{eq}_k (u + \Delta 
 </description>
     </item>
     
+    <item>
+      <title>Опубликован первый этап проекта</title>
+      <link>http://localhost:1313/post/1step/</link>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/1step/</guid>
+      <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
+&lt;p&gt;Разработать и проанализировать модель на основе решеточного уравнения Больцмана для описания течений газа.&lt;/p&gt;
+&lt;h2 id=&#34;задачи-первого-этапа-проекта&#34;&gt;Задачи первого этапа проекта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Формулировка научной проблемы&lt;/strong&gt;: определение ключевых аспектов проблемы и ее значимости.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Теоретическое описание задачи&lt;/strong&gt;: формулировка теоретических основ модели.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Описание модели&lt;/strong&gt;: разработка математической модели, отражающей основные физические процессы.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;объект-и-предмет-исследования&#34;&gt;Объект и предмет исследования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Объект:&lt;/strong&gt; физические процессы в газах и жидкостях.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Предмет:&lt;/strong&gt; использование решеточных методов (LGA и LBE) для описания динамики частиц на дискретной сетке.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Решеточные газы, решеточное уравнение Больцмана</title>
+      <link>http://localhost:1313/slides/1stepslides/1stepslides/</link>
+      <pubDate>Fri, 21 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/1stepslides/1stepslides/</guid>
+      <description>&lt;h1 id=&#34;вводная-часть&#34;&gt;Вводная часть&lt;/h1&gt;
+&lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;
+&lt;p&gt;Студенты группы НФИбд-01/02-22:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Абакумова Олеся Максимовна&lt;/li&gt;
+&lt;li&gt;Астраханцева Анастасия Александровна&lt;/li&gt;
+&lt;li&gt;Ганина Таисия Сергеевна&lt;/li&gt;
+&lt;li&gt;Ибатулина Дарья Эдуардовна&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;постановка-проблемы&#34;&gt;Постановка проблемы&lt;/h2&gt;
+&lt;p&gt;Моделирование газовых потоков и жидкостей традиционными методами, такими как уравнения Навье-Стокса, требует значительных вычислительных ресурсов.&lt;/p&gt;
+&lt;p&gt;Методы LGA и LBE предлагают альтернативу, упрощая вычисления при сохранении физической достоверности.&lt;/p&gt;
+&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Исследования сложных многокомпонентных течений.&lt;/li&gt;
+&lt;li&gt;Течений с фазовыми переходами и химическими реакциями.&lt;/li&gt;
+&lt;li&gt;Создания высокопроизводительных параллельных алгоритмов.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;объект-и-предмет-исследования&#34;&gt;Объект и предмет исследования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;физические процессы в газах и жидкостях&lt;/li&gt;
+&lt;li&gt;использование решеточных методов (LGA и LBE) для описания динамики частиц на дискретной сетке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;цели-и-задачи&#34;&gt;Цели и задачи&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Цель работы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Разработать и проанализировать модель на основе решеточного уравнения Больцмана для описания течений газа.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Формулировка научной проблемы&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Теоретическое описание задачи&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Описание модели&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;основная-часть&#34;&gt;Основная часть&lt;/h1&gt;
+&lt;h2 id=&#34;решеточные-газы-lga&#34;&gt;Решеточные газы (LGA)&lt;/h2&gt;
+&lt;p&gt;Квадратная решетка, в узлах - частицы единичной массы.
+Расстояние между узлами $\Delta x$ и шаг по времени $\Delta t$ принимаются за единицу.
+В каждом узле - не более одной частицы с данным направлением скорости.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/1step1_huf34ba46a9353e3daa44d1630ed71b031_532714_3db2a7a3fbd6f27028ba97b3c8e4af36.webp 400w,
+               /media/1step1_huf34ba46a9353e3daa44d1630ed71b031_532714_2494bafe9c85a20dc1a6546ebc600222.webp 760w,
+               /media/1step1_huf34ba46a9353e3daa44d1630ed71b031_532714_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/1step1_huf34ba46a9353e3daa44d1630ed71b031_532714_3db2a7a3fbd6f27028ba97b3c8e4af36.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;685&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;модель-hpp-hardypomeaupazzis&#34;&gt;Модель HPP (Hardy–Pomeau–Pazzis)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Используется квадратная решетка.&lt;/li&gt;
+&lt;li&gt;Частицы двигаются в соседние узлы.&lt;/li&gt;
+&lt;li&gt;Соударения происходят с сохранением количества частиц и их полного импульса.&lt;/li&gt;
+&lt;li&gt;Нетривиальные соударения: скорости частиц поворачиваются на 90 градусов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/1step2_hu1bb12afd743f2417b769348c47783fe1_35160_cc7455ca53848a9bc4926d3501052190.webp 400w,
+               /media/1step2_hu1bb12afd743f2417b769348c47783fe1_35160_af567bfa5fa8f22d226d7c08a944e959.webp 760w,
+               /media/1step2_hu1bb12afd743f2417b769348c47783fe1_35160_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/1step2_hu1bb12afd743f2417b769348c47783fe1_35160_cc7455ca53848a9bc4926d3501052190.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;237&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{width=70%}&lt;/p&gt;
+&lt;h2 id=&#34;кодирование-состояний-в-hpp&#34;&gt;Кодирование состояний в HPP&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Наличие частицы с направлением скорости кодируется битом (0 — нет, 1 — есть).&lt;/li&gt;
+&lt;li&gt;Состояние каждого узла записывается в четырех битах.&lt;/li&gt;
+&lt;li&gt;Примеры операций:
+&lt;ul&gt;
+&lt;li&gt;Добавление к состоянию S частицы с направлением скорости $d_k$:&lt;br&gt;
+$S \text{ or } d_k \rightarrow S$&lt;/li&gt;
+&lt;li&gt;Проверка наличия в S частицы с направлением скорости $d_k$:&lt;br&gt;
+$\text{if } (S \text{ and } d_k) \neq 0$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Операции сводятся к целочисленной арифметике: высокая скорость, отсутствие ошибок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;модели-fhp-i-fhp-iii&#34;&gt;Модели FHP-I, FHP-III&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FHP-I&lt;/strong&gt;: Используется треугольная сетка с 6 направлениями скорости.
+&lt;ul&gt;
+&lt;li&gt;Обладает большей симметрией по сравнению с моделью HPP.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FHP-III&lt;/strong&gt;: Включает в себя покоящиеся частицы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/1step3_hub361a8f41f999bd0cd25d41d6c5cda25_81783_060d0aee0c1af1a143bd09929a553bd9.webp 400w,
+               /media/1step3_hub361a8f41f999bd0cd25d41d6c5cda25_81783_5a1697c70b2d428b62084dffbab4229a.webp 760w,
+               /media/1step3_hub361a8f41f999bd0cd25d41d6c5cda25_81783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/1step3_hub361a8f41f999bd0cd25d41d6c5cda25_81783_060d0aee0c1af1a143bd09929a553bd9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;квадратная-решетка-с-движением-по-диагоналям-1&#34;&gt;Квадратная решетка с движением по диагоналям (1)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Движение по диагоналям (скорость $\sqrt{2}$).&lt;/li&gt;
+&lt;li&gt;9 направлений скорости.&lt;/li&gt;
+&lt;li&gt;Возможен ЗСЭ, можно ввести температуру.&lt;/li&gt;
+&lt;li&gt;Параметры:
+&lt;ul&gt;
+&lt;li&gt;Число покоящихся частиц: $n_0$&lt;/li&gt;
+&lt;li&gt;Число частиц с единичной скоростью: $n_1$&lt;/li&gt;
+&lt;li&gt;Число частиц со скоростью $\sqrt{2}$: $n_2$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/1step4_hu496c82bf27b2efd18ca55c6ea7edf215_15615_810ecd0bef439ca82aee8c5461fb3b72.webp 400w,
+               /media/1step4_hu496c82bf27b2efd18ca55c6ea7edf215_15615_a5c9dbdfc919fe4c0ecc3d46b18c4f44.webp 760w,
+               /media/1step4_hu496c82bf27b2efd18ca55c6ea7edf215_15615_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/1step4_hu496c82bf27b2efd18ca55c6ea7edf215_15615_810ecd0bef439ca82aee8c5461fb3b72.webp&#34;
+               width=&#34;489&#34;
+               height=&#34;260&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;квадратная-решетка-с-движением-по-диагоналям-2&#34;&gt;Квадратная решетка с движением по диагоналям (2)&lt;/h2&gt;
+&lt;p&gt;Плотность: $\rho = n_0 + n_1 + n_2$&lt;br&gt;
+Полная энергия: $E = P + \frac{\rho u^2}{2} = \sum_i n_i v_i^2 / 2 = n_1/2 + n_2$ (где $P$ — давление)&lt;br&gt;
+Температура: $T = \frac{P}{\rho}$&lt;/p&gt;
+&lt;h2 id=&#34;решеточное-уравнение-больцмана-lbe&#34;&gt;Решеточное уравнение Больцмана (LBE)&lt;/h2&gt;
+&lt;p&gt;Метод LBE позволяет устранить статистический шум, возникающий из-за случайности в модели LGA.
+Эволюция системы описывается уравнением Больцмана:&lt;/p&gt;
+&lt;p&gt;$f_k(x + c_k \Delta t, t + \Delta t) = f_k(x, t) + \Omega_k(x, t)$, где:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$f_k$ — одночастичная функция распределения.&lt;/li&gt;
+&lt;li&gt;$c_k$ — скорость частиц.&lt;/li&gt;
+&lt;li&gt;$\Omega_k$ — столкновительный член.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;условие-и-параметры&#34;&gt;Условие и параметры&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Скорости частиц $c_k$ должны удовлетворять условию $c_k \Delta t = e_k$, где $e_k$ — векторы, соединяющие узел с соседними. Обычно принимается $\Delta t = 1$.&lt;/li&gt;
+&lt;li&gt;Макроскопические параметры:
+&lt;ul&gt;
+&lt;li&gt;Плотность: $\rho = \sum_k f_k$&lt;/li&gt;
+&lt;li&gt;Скорость: $\rho u = \sum_k f_k c_k$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Столкновительный член:
+&lt;ul&gt;
+&lt;li&gt;$\Omega_k = \frac{1}{\tau} (f_k^{eq} - f_k)$, где $f_k^{eq}$ — равновесные функции распределения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-lbe&#34;&gt;Преимущества LBE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Хорошо описывает течения вязкой жидкости в пределе малых скоростей (число Маха $M = u / c_s \ll 1$).&lt;/li&gt;
+&lt;li&gt;Время релаксации $\tau$ определяет кинематическую вязкость $\nu = (\tau - 1/2) c_s^2 \Delta t$.&lt;/li&gt;
+&lt;li&gt;На твердых границах можно просто разворачивать скорости прилетевших частиц, моделируя непроницаемые стенки без проскальзывания.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;явный-вид-функций-f_keq&#34;&gt;Явный вид функций $f_k^{eq}$&lt;/h2&gt;
+&lt;p&gt;Обычно равновесные функции распределения выбираются в максвелловском виде:&lt;/p&gt;
+&lt;p&gt;$f_k^{eq} \sim \exp(-(c_k - u)^2 / 2\theta)$.&lt;/p&gt;
+&lt;p&gt;В изотермических моделях достаточно разложить экспоненту в ряд с точностью до членов порядка $u^2$:&lt;/p&gt;
+&lt;p&gt;$f_k^{eq} = w_k \rho \left( 1 + \frac{c_k \cdot u}{\theta} + \frac{(c_k \cdot u)^2}{2\theta^2} - \frac{u^2}{2\theta} \right)$.&lt;/p&gt;
+&lt;p&gt;Коэффициенты $w_k \sim \exp(-c_k^2 / 2\theta)$ зависят только от модуля $|c_k|$.&lt;/p&gt;
+&lt;h2 id=&#34;равновесные-функции-распределения-для-сетки-с-9-направлениями&#34;&gt;Равновесные функции распределения для сетки с 9 направлениями&lt;/h2&gt;
+&lt;p&gt;$c_0 = (0, 0)$
+$c_k = \frac{h}{\Delta t} (\cos(k \pi / 2), \sin(k \pi / 2))$ для $k = 1 \dots 4$
+$c_k = \frac{\sqrt{2} h}{\Delta t} (\cos((k + 1/2) \pi / 2), \sin((k + 1/2) \pi / 2))$ для $k = 5 \dots 8$
+$\theta = \frac{1}{3} (h / \Delta t)^2, \quad w_0 = \frac{4}{9}, \quad w_{1-4} = \frac{1}{9}, \quad w_{5-8} = \frac{1}{36}$
+$f_0^{eq} = w_0 \rho (1 - d \tilde{u}^2)$
+$f_1^{eq} = w_1 \rho (1 + a \tilde{u}_x + b \tilde{u}_x^2 - d \tilde{u}^2)$
+$&amp;hellip;$
+$f_8^{eq} = w_8 \rho (1 + a (\tilde{u}_x - \tilde{u}_y) + b (\tilde{u}_x - \tilde{u}_y)^2 - d \tilde{u}^2)$&lt;/p&gt;
+&lt;p&gt;где $a = \frac{(\Delta t / h)^2}{\theta} = 3, \quad b = \frac{(\Delta t / h)^4}{2 \theta^2} = \frac{9}{2}, \quad d = \frac{(\Delta t / h)^2}{2 \theta} = \frac{3}{2}$&lt;/p&gt;
+&lt;h2 id=&#34;двумерная-модель-на-квадратной-сетке-с-9-направлениями&#34;&gt;Двумерная модель на квадратной сетке с 9 направлениями&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/1step5_huc6a055296ab313b98100e58709cfe033_17423_0d694456fe281b06f186bc727b3f34db.webp 400w,
+               /media/1step5_huc6a055296ab313b98100e58709cfe033_17423_30aa0a32983b4a08097036895b1a9028.webp 760w,
+               /media/1step5_huc6a055296ab313b98100e58709cfe033_17423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/1step5_huc6a055296ab313b98100e58709cfe033_17423_0d694456fe281b06f186bc727b3f34db.webp&#34;
+               width=&#34;343&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{width=70%}&lt;/p&gt;
+&lt;h2 id=&#34;модели-lga-со-взаимодействием-между-частицами&#34;&gt;Модели LGA со взаимодействием между частицами&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Несмешивающиеся решеточные газы:
+&lt;ul&gt;
+&lt;li&gt;Вводится отталкивание между частицами разного типа (например, &amp;ldquo;синими&amp;rdquo; и &amp;ldquo;красными&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;При достаточной силе отталкивания происходит разделение веществ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Модель LGA с переходом &amp;ldquo;жидкость-газ&amp;rdquo;:
+&lt;ul&gt;
+&lt;li&gt;Вводится притяжение между частицами на некотором расстоянии.&lt;/li&gt;
+&lt;li&gt;Импульсы частиц поворачиваются друг к другу, если это возможно.&lt;/li&gt;
+&lt;li&gt;При достаточно большой длине взаимодействия возможно сосуществование плотной и разреженной фаз.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;модель-lbe-с-внешними-силами-и-фазовыми-переходами-действие-внешних-сил&#34;&gt;Модель LBE с внешними силами и фазовыми переходами. Действие внешних сил&lt;/h2&gt;
+&lt;p&gt;Суммарная сила, действующая на вещество в узле, равна $F$.
+Действие силы в течение шага по времени $\Delta t$ приводит к изменению скорости:
+$\Delta u = \frac{F \Delta t}{\rho}$.
+Решеточное уравнение Больцмана принимает вид:
+$f_k(x + c_k \Delta t, t + \Delta t) = f_k(x, t) + \Omega_k(x, t) + \Delta f_k$.
+Добавка равна разнице равновесных функций распределения при одной и той же плотности, но с разными скоростями:
+$\Delta f_k = f_k^{eq} (\rho, u + \Delta u) - f_k^{eq} (\rho, u)$.&lt;/p&gt;
+&lt;h2 id=&#34;модель-lbe-с-внешними-силами-и-фазовыми-переходами-порядок-учета-действия-сил&#34;&gt;Модель LBE с внешними силами и фазовыми переходами. Порядок учета действия сил&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Вычислить промежуточные значения функций распределения:
+$f^*_k(x, t + \Delta t) = f_k(x, t) + \Delta f_k$.&lt;/li&gt;
+&lt;li&gt;Применить оператор столкновений:
+$f_k(x, t + \Delta t) = f^&lt;em&gt;_k(x, t + \Delta t) + (f^{eq}_k (u + \Delta u) - f^&lt;/em&gt;_k(x, t + \Delta t)) / \tau$.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;модель-lbe-с-внешними-силами-и-фазовыми-переходами-фазовые-переходы&#34;&gt;Модель LBE с внешними силами и фазовыми переходами. Фазовые переходы&lt;/h2&gt;
+&lt;p&gt;Жидкость ↔ Газ
+Твердое тело ↔ Жидкость&lt;/p&gt;
+&lt;p&gt;Сила взаимодействия между частицами в соседних узлах:
+$F(x) = \psi(\rho(x)) \sum_k G_k e_k \psi(\rho(x + e_k))$, где:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$G_k &amp;gt; 0$: притяжение&lt;/li&gt;
+&lt;li&gt;$G_k &amp;lt; 0$: отталкивание&lt;/li&gt;
+&lt;li&gt;$G_k$ выбираются для изотропии силы&lt;/li&gt;
+&lt;li&gt;$\psi(\rho)$: &amp;ldquo;эффективная плотность&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;пример-квадратная-сетка&#34;&gt;Пример: квадратная сетка&lt;/h2&gt;
+&lt;p&gt;$G_{1-4} = G_0 &amp;gt; 0$, $G_{5-8} = \frac{G_0}{4}$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Уравнение состояния:
+$P = \rho \theta - \alpha G_0 \psi^2(\rho)$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Эффективная плотность:
+$\Phi(\rho, T) = \sqrt{\rho \theta - P(\rho, T)}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сила, действующая на вещество. Одномерный случай:
+$F(x) = \Phi(x)[\Phi(x + 1) - \Phi(x - 1)]$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сила, действующая на вещество. Двумерный случай:
+$F(x) = \frac{2}{3} \Phi(x) \sum_k \frac{G_k}{G_0} \Phi(x + e_k) e_k$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;моделирование-двухкомпонентных-течений&#34;&gt;Моделирование двухкомпонентных течений&lt;/h2&gt;
+&lt;p&gt;Смешивание или разделение двух разных веществ.&lt;/p&gt;
+&lt;p&gt;$f_{k,s}$ - функции распределения для каждого вещества (s = 1 или 2).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Столкновительный член
+$\Omega_{k,s} = \frac{f_{k,s} - f_{k,s}^{eq}(\rho_s, u)}{\tau_s}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Плотности и скорости каждого вещества
+$\rho_s = \sum_k f_{k,s}$
+$\rho_s u_s = \sum_k f_{k,s} c_k$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Общая плотность и скорость
+$\rho = \rho_1 + \rho_2$
+$u = \frac{\sum_s \frac{\rho_s u_s}{\tau_s}}{\sum_s \frac{\rho_s}{\tau_s}}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;химические-реакции-в-решеточных-моделях&#34;&gt;Химические реакции в решеточных моделях&lt;/h2&gt;
+&lt;p&gt;Хим. реакции - процессы превращения одних веществ в другие.&lt;/p&gt;
+&lt;p&gt;Общая сила, действующая на вещество в узле, равна $F$.
+Действие силы в течение шага по времени $\Delta t$ приводит к изменению скорости:
+$\Delta u = \frac{F \Delta t}{\rho}$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Решеточное уравнение Больцмана с учетом сил:
+$f_k(x + c_k \Delta t, t + \Delta t) = f_k(x, t) + \Omega_k(x, t) + \Delta f_k$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Добавка к функциям распределения
+$\Delta f_k = f_{k}^{eq}(\rho, u + \Delta u) - f_{k}^{eq}(\rho, u)$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Физическая скорость вещества
+$u^* = \frac{u + (u + \Delta u)}{2} = u + \frac{\Delta u}{2}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;заключение&#34;&gt;Заключение&lt;/h1&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Во время выполнения первого этапа группового проекта мы сделали теоретическое описание решеточного уравнения Больцмана и определили задачи дальнейшего исследования.&lt;/p&gt;
+&lt;h1 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Медведев Д.А. и др. Моделирование физических процессов и явлений на ПК: Учеб. пособие. // Новосибирск: Новосиб. гос. ун-т, 2010. 101 с.&lt;/li&gt;
+&lt;li&gt;Куперштох А. Л. Моделирование течений с границами раздела жидкость-пар методом решеточных уравнениях Больцмана //
+Вестник НГУ. Сер. Математика, механика и информатика. 2005. Т. 5, № 3. с. 29–42.&lt;/li&gt;
+&lt;li&gt;Chen S., Lee M., Zhao K. H., Doolen G. D. A lattice gas model with temperature // Physica D. 1989. V. 37. p. 42–59.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.20948/prepr-2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чащин Г.С. Метод решёточных уравнений Больцмана: моделирование изотермических низкоскоростных течений&lt;/a&gt; // &lt;a href=&#34;https://library.keldysh.ru/preprint.asp?id=2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Препринты ИПМ им. М.В.Келдыша. 2021. № 99. 31 с.&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

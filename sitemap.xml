@@ -62,6 +62,22 @@
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/slides/</loc>
+    <lastmod>2025-03-21T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-21T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/1step/</loc>
+    <lastmod>2025-03-21T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/slides/1stepslides/1stepslides/</loc>
+    <lastmod>2025-03-21T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,24 +94,10 @@
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/1step/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/slides/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/slides/1stepslides/1stepslides/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
