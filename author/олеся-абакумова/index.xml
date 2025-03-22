@@ -18,7 +18,18 @@
       <pubDate>Sat, 22 Mar 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/1-step/</guid>
       <description>&lt;h2 id=&#34;видеопрезентация-первого-этапа-группового-проекта&#34;&gt;Видеопрезентация первого этапа группового проекта:&lt;/h2&gt;
-&lt;p&gt;&amp;lt;Тут будет видео&amp;gt;&lt;/p&gt;
+&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/d3b8e8b575526a025620eb0953f24f40/?skinColor=5e35b1&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://rutube.ru/video/d3b8e8b575526a025620eb0953f24f40/&#34;&gt;Защита 1 этапа проекта, МатМод&lt;/a&gt; на &lt;a href=&#34;https://rutube.ru/&#34;&gt;RUTUBE&lt;/a&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Подробно ознакомиться с презентацией проекта вы можете в &lt;a href=&#34;http://localhost:1313/slides/1stepslides/1stepslides/&#34;&gt;Слайдах&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Прочитать полный отчёт можно во вкладке &lt;a href=&#34;http://localhost:1313/publication/1step/&#34;&gt;Публикации (1 этап)&lt;/a&gt;. Там же находится pdf-формат отчёта.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;
 &lt;p&gt;Студенты группы НФИбд-01/02-22:&lt;/p&gt;
 &lt;ul&gt;
