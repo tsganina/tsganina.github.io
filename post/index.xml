@@ -5,12 +5,29 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Новости</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>Новости</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Опубликован второй этап проекта</title>
+      <link>http://localhost:1313/post/2step/</link>
+      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2step/</guid>
+      <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
+&lt;p&gt;Исследовать алгоритмы решения задачи&lt;/p&gt;
+&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;
+&lt;p&gt;Моделирование газовых потоков и жидкостей традиционными методами требует значительных вычислительных ресурсов. В связи с этим, методы решеточных газов (LGA) и решеточного уравнения Больцмана (LBE) становятся все более актуальными. Они позволяют упростить вычисления, сохраняя при этом физическую достоверность, и находят применение в различных областях, от гидродинамики до биофизики. В данном докладе мы рассмотрим основные алгоритмы и модели, используемые для решения задач с применением LGA и LBE.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Прочитать полный отчёт можно во вкладке &lt;a href=&#34;http://localhost:1313/publication/2step/&#34;&gt;Публикации (2 этап)&lt;/a&gt;. Там же находится pdf-формат отчёта.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Опубликован первый этап проекта</title>
