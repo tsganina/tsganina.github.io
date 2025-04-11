@@ -13,6 +13,99 @@
     </image>
     
     <item>
+      <title>Второй этап проекта</title>
+      <link>http://localhost:1313/event/2-step/</link>
+      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2-step/</guid>
+      <description>&lt;h2 id=&#34;видеопрезентация-первого-этапа-группового-проекта&#34;&gt;Видеопрезентация первого этапа группового проекта:&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Подробно ознакомиться с презентацией проекта вы можете в &lt;a href=&#34;http://localhost:1313/slides/2stepslides/2stepslides/&#34;&gt;Слайдах&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Прочитать полный отчёт можно во вкладке &lt;a href=&#34;http://localhost:1313/publication/2step/&#34;&gt;Публикации (2 этап)&lt;/a&gt;. Там же находится pdf-формат отчёта.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;постановка-проблемы&#34;&gt;Постановка проблемы&lt;/h2&gt;
+&lt;p&gt;Моделирование газовых потоков и жидкостей традиционными методами, такими как уравнения Навье-Стокса, требует значительных вычислительных ресурсов.&lt;/p&gt;
+&lt;p&gt;Методы LGA и LBE предлагают альтернативу, упрощая вычисления при сохранении физической достоверности.&lt;/p&gt;
+&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Исследования сложных многокомпонентных течений.&lt;/li&gt;
+&lt;li&gt;Течений с фазовыми переходами и химическими реакциями.&lt;/li&gt;
+&lt;li&gt;Создания высокопроизводительных параллельных алгоритмов.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Рассмотрим основные алгоритмы и модели, используемые для решения задач с применением LGA и LBE.&lt;/p&gt;
+&lt;h2 id=&#34;объект-и-предмет-исследования&#34;&gt;Объект и предмет исследования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;физические процессы в газах и жидкостях&lt;/li&gt;
+&lt;li&gt;использование решеточных методов (LGA и LBE) для описания динамики частиц на дискретной сетке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;цель&#34;&gt;Цель&lt;/h2&gt;
+&lt;p&gt;Исследовать алгоритмы решения задачи с применением LGA и LBE.&lt;/p&gt;
+&lt;h1 id=&#34;основная-часть&#34;&gt;Основная часть&lt;/h1&gt;
+&lt;h2 id=&#34;модель-hpp-hardypomeaupazzis-описание&#34;&gt;Модель HPP (Hardy–Pomeau–Pazzis). Описание&lt;/h2&gt;
+&lt;p&gt;Модель HPP (Hardy-Pomeau-Pazzis) представляет собой дискретную систему, где пространство и время дискретизованы, а частицы двигаются по узлам квадратной решетки.&lt;/p&gt;
+&lt;h2 id=&#34;основные-характеристики&#34;&gt;Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Решетка&lt;/strong&gt;: Двумерная квадратная&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Частицы&lt;/strong&gt;: Единичной массы, 4 направления&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: Δx/Δt = 1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Принцип исключения&lt;/strong&gt;: ≤1 частица/направление&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эволюция&lt;/strong&gt;: Распространение → Столкновения&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;: Сохранение импульса, 90° поворот&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кодирование&lt;/strong&gt;: 4-битный формат (1 бит/направление)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_3f9b38726750b8d7932ecf5c868b04e4.webp 400w,
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_ef65cad411fb84aa1bb4f206a36206b6.webp 760w,
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_3f9b38726750b8d7932ecf5c868b04e4.webp&#34;
+               width=&#34;440&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;основные-операции-для-работы-с-состояниями-узлов&#34;&gt;Основные операции для работы с состояниями узлов&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Добавление частицы&lt;/strong&gt;: добавление к состоянию $S$ частицы с направлением скорости $d_k$:
+$$
+S \text{ OR } d_k \rightarrow S
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Проверка наличия частицы&lt;/strong&gt;: проверка, есть ли в состоянии $S$ частица с направлением скорости $d_k$:
+$$
+\text{if } (S \text{ AND } d_k) \neq 0
+$$
+Если результат не равен 0, то частица с направлением $d_k$ присутствует в узле.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Опубликован второй этап проекта</title>
       <link>http://localhost:1313/post/2step/</link>
       <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>

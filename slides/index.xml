@@ -5,12 +5,467 @@
     <link>http://localhost:1313/slides/</link>
       <atom:link href="http://localhost:1313/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>Slides</title>
       <link>http://localhost:1313/slides/</link>
     </image>
+    
+    <item>
+      <title>Решеточные газы, решеточное уравнение Больцмана</title>
+      <link>http://localhost:1313/slides/2stepslides/2stepslides/</link>
+      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/2stepslides/2stepslides/</guid>
+      <description>&lt;h1 id=&#34;вводная-часть&#34;&gt;Вводная часть&lt;/h1&gt;
+&lt;h2 id=&#34;состав-исследовательской-команды&#34;&gt;Состав исследовательской команды&lt;/h2&gt;
+&lt;p&gt;Студенты группы НФИбд-01/02-22:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Абакумова Олеся Максимовна&lt;/li&gt;
+&lt;li&gt;Астраханцева Анастасия Александровна&lt;/li&gt;
+&lt;li&gt;Ганина Таисия Сергеевна&lt;/li&gt;
+&lt;li&gt;Ибатулина Дарья Эдуардовна&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;постановка-проблемы&#34;&gt;Постановка проблемы&lt;/h2&gt;
+&lt;p&gt;Моделирование газовых потоков и жидкостей традиционными методами, такими как уравнения Навье-Стокса, требует значительных вычислительных ресурсов.&lt;/p&gt;
+&lt;p&gt;Методы LGA и LBE предлагают альтернативу, упрощая вычисления при сохранении физической достоверности.&lt;/p&gt;
+&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Исследования сложных многокомпонентных течений.&lt;/li&gt;
+&lt;li&gt;Течений с фазовыми переходами и химическими реакциями.&lt;/li&gt;
+&lt;li&gt;Создания высокопроизводительных параллельных алгоритмов.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Рассмотрим основные алгоритмы и модели, используемые для решения задач с применением LGA и LBE.&lt;/p&gt;
+&lt;h2 id=&#34;объект-и-предмет-исследования&#34;&gt;Объект и предмет исследования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;физические процессы в газах и жидкостях&lt;/li&gt;
+&lt;li&gt;использование решеточных методов (LGA и LBE) для описания динамики частиц на дискретной сетке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;цель&#34;&gt;Цель&lt;/h2&gt;
+&lt;p&gt;Исследовать алгоритмы решения задачи с применением LGA и LBE.&lt;/p&gt;
+&lt;h1 id=&#34;основная-часть&#34;&gt;Основная часть&lt;/h1&gt;
+&lt;h2 id=&#34;модель-hpp-hardypomeaupazzis-описание&#34;&gt;Модель HPP (Hardy–Pomeau–Pazzis). Описание&lt;/h2&gt;
+&lt;p&gt;Модель HPP (Hardy-Pomeau-Pazzis) представляет собой дискретную систему, где пространство и время дискретизованы, а частицы двигаются по узлам квадратной решетки.&lt;/p&gt;
+&lt;h2 id=&#34;основные-характеристики&#34;&gt;Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Решетка&lt;/strong&gt;: Двумерная квадратная&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Частицы&lt;/strong&gt;: Единичной массы, 4 направления&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: Δx/Δt = 1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Принцип исключения&lt;/strong&gt;: ≤1 частица/направление&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эволюция&lt;/strong&gt;: Распространение → Столкновения&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;: Сохранение импульса, 90° поворот&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кодирование&lt;/strong&gt;: 4-битный формат (1 бит/направление)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_3f9b38726750b8d7932ecf5c868b04e4.webp 400w,
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_ef65cad411fb84aa1bb4f206a36206b6.webp 760w,
+               /media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/2step/HppModelExamples_huef7440bf026680eb577c23db4d515b1c_10139_3f9b38726750b8d7932ecf5c868b04e4.webp&#34;
+               width=&#34;440&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;основные-операции-для-работы-с-состояниями-узлов&#34;&gt;Основные операции для работы с состояниями узлов&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Добавление частицы&lt;/strong&gt;: добавление к состоянию $S$ частицы с направлением скорости $d_k$:
+$$
+S \text{ OR } d_k \rightarrow S
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Проверка наличия частицы&lt;/strong&gt;: проверка, есть ли в состоянии $S$ частица с направлением скорости $d_k$:
+$$
+\text{if } (S \text{ AND } d_k) \neq 0
+$$
+Если результат не равен 0, то частица с направлением $d_k$ присутствует в узле.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;недостатки-модели-hpp&#34;&gt;Недостатки модели HPP&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Отсутствие симметрии&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Нефизичное поведение&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;модель-fhp-i-описание&#34;&gt;Модель FHP-I. Описание&lt;/h2&gt;
+&lt;p&gt;Модель FHP-I (Frisch-Hasslacher-Pomeau) — это улучшенная модель решеточных газов. Используется треугольная сетка и 6 направлений скорости.&lt;/p&gt;
+&lt;h2 id=&#34;основные-характеристики-1&#34;&gt;Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Решетка&lt;/strong&gt;: Двумерная треугольная сетка (6 направлений)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Частицы&lt;/strong&gt;: Единичной массы, движение в 6 направлениях&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: Аналогично HPP (Δx/Δt = 1)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Принцип исключения&lt;/strong&gt;: ≤1 частица/направление&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эволюция&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Распространение → Столкновения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;2-частичные (60° поворот)&lt;/li&gt;
+&lt;li&gt;3-частичные (сохранение импульса)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кодирование&lt;/strong&gt;: 6-битный формат (1 бит/направление)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-и-недостатки-модели-fhp-i&#34;&gt;Преимущества и недостатки модели FHP-I&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;+&lt;/code&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Улучшенная симметрия&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Реалистичное поведение&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;-&lt;/code&gt;:
+Сложность реализации&lt;/p&gt;
+&lt;h2 id=&#34;модель-fhp-iii-описание&#34;&gt;Модель FHP-III. Описание&lt;/h2&gt;
+&lt;p&gt;Модель FHP-III — это расширение модели FHP-I. Происходит добавление покоящихся частиц.&lt;/p&gt;
+&lt;h2 id=&#34;основные-характеристики-модели-fhp-iii&#34;&gt;Основные характеристики модели FHP-III&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Решетка&lt;/strong&gt;: 2D треугольная (6 направлений)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Частицы&lt;/strong&gt;: Ед. массы; 6 движущихся + 1 покоящаяся&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: Движущиеся - Δx/Δt = 1; покоящиеся - 0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Принцип исключения&lt;/strong&gt;: ≤1 движущаяся/направление; ≤1 покоящаяся&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эволюция&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Распространение (движущиеся)&lt;/li&gt;
+&lt;li&gt;Столкновения (сохранение)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;2 частицы → 60°&lt;/li&gt;
+&lt;li&gt;Частица + покой → изменение направления&lt;/li&gt;
+&lt;li&gt;Создание/уничтожение покоящейся&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кодирование&lt;/strong&gt;: 7 бит (6 направлений + покой)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;недостаток-модели-fhp-iii&#34;&gt;Недостаток модели FHP-III&lt;/h2&gt;
+&lt;p&gt;Сложность реализации&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Решетка и некоторые возможные столкновения частиц в модели FHP-I(а), некоторые возможные столкновения с участием покоящихся частиц в модели FHP-III(б)&#34; srcset=&#34;
+               /media/2step/2_hua8c1f89c1e830664a7c044501f27a78f_47013_fd102d41f5c133428a415476d3195483.webp 400w,
+               /media/2step/2_hua8c1f89c1e830664a7c044501f27a78f_47013_cbed192c576ac0133db1d0895fce3afb.webp 760w,
+               /media/2step/2_hua8c1f89c1e830664a7c044501f27a78f_47013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/2step/2_hua8c1f89c1e830664a7c044501f27a78f_47013_fd102d41f5c133428a415476d3195483.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;модель-с-9-направлениями-скорости-основные-характеристики&#34;&gt;Модель с 9 направлениями скорости. Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Решетка&lt;/strong&gt;: 2D квадратная&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Частицы&lt;/strong&gt;: Движение по 8 направлениям + покой&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость&lt;/strong&gt;: Горизонталь/вертикаль: v₁ = 1, Диагональ: v₂ = √2, Покой: 0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Направления&lt;/strong&gt;: 4 (v₁), 4 (v₂): диагонали; 1 состояние покоя&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эволюция&lt;/strong&gt;: Распространение, столкновения&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;: Сохранение массы, импульса, энергии&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Кодирование&lt;/strong&gt;: 9 бит/узел (8 направлений + покой)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/2step/4_hude372aa6fd868089b4579ea4e484e33c_28657_04fa430e9a404d3f5d453fc43055c1fa.webp 400w,
+               /media/2step/4_hude372aa6fd868089b4579ea4e484e33c_28657_652f939ce5e1e7ac70c99d4c043ce70c.webp 760w,
+               /media/2step/4_hude372aa6fd868089b4579ea4e484e33c_28657_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/2step/4_hude372aa6fd868089b4579ea4e484e33c_28657_04fa430e9a404d3f5d453fc43055c1fa.webp&#34;
+               width=&#34;483&#34;
+               height=&#34;482&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;физические-параметры&#34;&gt;Физические параметры&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Плотность&lt;/strong&gt; ($\rho$):
+$$\rho = n_0 + n_1 + n_2$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Полная энергия&lt;/strong&gt; ($E$):
+$$E = P + \frac{\rho u^2}{2} = \sum_i n_i \frac{v_i^2}{2} = \frac{n_1}{2} + n_2$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Температура&lt;/strong&gt; ($T$):
+$T = \frac{P}{\rho}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-и-недостатки&#34;&gt;Преимущества и недостатки&lt;/h2&gt;
+&lt;p&gt;Преимущества:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Изотропность&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Возможность введения температуры&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Более реалистичное поведение&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Недостатки:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Сложность реализации&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Вычислительные затраты&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;решеточное-уравнение-больцмана-lbe-lattice-boltzmann-equation-описание&#34;&gt;Решеточное уравнение Больцмана (LBE, Lattice Boltzmann Equation). Описание&lt;/h2&gt;
+&lt;p&gt;Решеточное уравнение Больцмана (LBE) — метод моделирования гидродинамики, фазовых переходов и хим. реакций. В отличие от моделей решеточных газов (LGA), LBE — более точный и гибкий подход для моделирования сложных систем.&lt;/p&gt;
+&lt;h2 id=&#34;основные-характеристики-2&#34;&gt;Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Дискретизация&lt;/strong&gt;: Пространство и время дискретизируются (решетка + шаги).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Функция распределения&lt;/strong&gt;: Вместо частиц используется функция распределения $f_k(x, t)$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Скорости&lt;/strong&gt;: Дискретные направления скоростей $c_k$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Основное уравнение&lt;/strong&gt;: $f_k(x + c_k \Delta t, t + \Delta t) = f_k(x, t) + \Omega_k(x, t)$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Столкновительный член (BGK)&lt;/strong&gt;: $\Omega_k = \frac{1}{\tau}(f_k^{eq} - f_k)$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Равновесная функция (D2Q9)&lt;/strong&gt;: $f_k^{eq} = w_k \rho \left[1 + \frac{c_k \cdot u}{c_s^2} + \frac{(c_k \cdot u)^2}{2c_s^4} - \frac{u^2}{2c_s^2}\right]$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Макроскопические параметры&lt;/strong&gt;: $\rho = \sum_k f_k$, $\rho u = \sum_k f_k c_k$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;преимущества-и-недостатки-lbe&#34;&gt;Преимущества и недостатки LBE&lt;/h2&gt;
+&lt;p&gt;Преимущества:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Гибкость&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Эффективность&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Точность&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Простота реализации граничных условий&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Недостатки:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ограничения по скорости&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Вычислительные затраты&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;применение&#34;&gt;Применение&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Гидродинамика&lt;/li&gt;
+&lt;li&gt;Аэродинамика&lt;/li&gt;
+&lt;li&gt;Пористые среды&lt;/li&gt;
+&lt;li&gt;Медицина&lt;/li&gt;
+&lt;li&gt;Химическая инженерия&lt;/li&gt;
+&lt;li&gt;Моделирование фазовых переходов&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;модель-с-взаимодействием-между-частицами-основные-характеристики&#34;&gt;Модель с взаимодействием между частицами. Основные характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Взаимодействие между частицами&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Типы взаимодействий: Отталкивание; Притяжение&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Влияние внешних сил: $\Delta u = \frac{F \Delta t}{\rho}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Уравнение Больцмана модифицируется добавкой:
+$f_k(x + c_k \Delta t, t + \Delta t) = f_k(x, t) + \Omega_k(x, t) + \Delta f_k$&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Моделирование фазовых переходов
+$F(x) = \psi(\rho(x)) \sum_{k} G_k e_k \psi(\rho(x + e_k))$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;алгоритм-моделирования-с-взаимодействием&#34;&gt;Алгоритм моделирования с взаимодействием&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Инициализация&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решетка (квадрат/треугольник)&lt;/li&gt;
+&lt;li&gt;Начальные условия (плотность, скорость, температура)&lt;/li&gt;
+&lt;li&gt;Параметры взаимодействия&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Распространение&lt;/strong&gt;: Перемещение частиц&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Вычисление сил&lt;/strong&gt;: Расчет взаимодействия между узлами&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;: Учет сил взаимодействия&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Обновление скоростей&lt;/strong&gt;: Изменение скоростей под действием сил&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Повторение&lt;/strong&gt;: Шаги 2-5 до стационарного состояния&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;применение-1&#34;&gt;Применение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Конденсация/испарение&lt;/li&gt;
+&lt;li&gt;Разделение фаз&lt;/li&gt;
+&lt;li&gt;Многофазные потоки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;модель-с-несколькими-компонентами-характеристики&#34;&gt;Модель с несколькими компонентами. Характеристики&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Несколько типов частиц&lt;/strong&gt;: Разные компоненты смеси&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Функции распределения&lt;/strong&gt;: $f_{k,i}(x, t)$ для каждого компонента&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Взаимодействия&lt;/strong&gt;: Силы между компонентами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Химические реакции&lt;/strong&gt;: Превращения частиц&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Уравнения эволюции&lt;/strong&gt;: Учитывают гидродинамику и реакции&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;алгоритм&#34;&gt;Алгоритм&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Инициализация&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Решетка&lt;/li&gt;
+&lt;li&gt;Начальные условия (плотность, скорость, концентрация)&lt;/li&gt;
+&lt;li&gt;Параметры взаимодействия&lt;/li&gt;
+&lt;li&gt;Правила реакций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Распространение&lt;/strong&gt;: Перемещение частиц&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Вычисление сил&lt;/strong&gt;: Взаимодействие между компонентами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Столкновения&lt;/strong&gt;: Учет сил&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Химические реакции&lt;/strong&gt;: Изменение количества частиц&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обновление скоростей&lt;/strong&gt;: Под действием сил&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повторение&lt;/strong&gt;: Шаги 2-6 до стационарности&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;математическое-описание&#34;&gt;Математическое описание&lt;/h2&gt;
+&lt;p&gt;Для LBE с несколькими компонентами уравнение эволюции выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;$$
+f_{k,i}(x + c_k \Delta t, t + \Delta t) = f_{k,i}(x, t) + \Omega_{k,i}(x, t)
+$$&lt;/p&gt;
+&lt;p&gt;Столкновительный член может включать в себя как релаксацию к равновесию, так и члены, описывающие химические реакции:&lt;/p&gt;
+&lt;p&gt;$$
+\Omega_{k,i} = \Omega_{k,i}^{collision} + \Omega_{k,i}^{reaction}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;применение-2&#34;&gt;Применение:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Смешивание жидкостей&lt;/li&gt;
+&lt;li&gt;Разделение веществ&lt;/li&gt;
+&lt;li&gt;Моделирование реакций&lt;/li&gt;
+&lt;li&gt;Реакция-диффузия&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;заключительная-часть&#34;&gt;Заключительная часть&lt;/h1&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Модели решеточных газов $(LGA)$ и решеточное уравнение Больцмана $(LBE)$ — эффективные инструменты для моделирования газовых потоков, требующие меньше ресурсов.&lt;/p&gt;
+&lt;p&gt;Разные модели применимы для разных задач:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;$HPP$ - базовая модель&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$FHP-I$ и $FHP-III$ - улучшенная симметрия.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;9 направлений - позволяет ввести температуру.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$LBE$ - наиболее гибкий подход.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Выбор алгоритма зависит от требований к точности, ресурсов и специфики задачи.&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;В ходе второго этапа проекта сделано теоретическое описание алгоритмов для моделирования решеточного уравнения Больцмана.&lt;/p&gt;
+&lt;h1 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Медведев Д.А. и др. Моделирование физических процессов и явлений на ПК: Учеб. пособие. // Новосибирск: Новосиб. гос. ун-т, 2010. 101 с.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Куперштох А. Л. Моделирование течений с границами раздела жидкость-пар методом LBE //
+Вестник НГУ. Сер. Математика, механика и информатика. 2005. Т. 5, № 3. с. 29–42.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chen S., Lee M., Zhao K. H., Doolen G. D. A lattice gas model with temperature // Physica D. 1989. V. 37. p. 42–59.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.20948/prepr-2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чащин Г.С. Метод решёточных уравнений Больцмана&lt;/a&gt; // &lt;a href=&#34;https://library.keldysh.ru/preprint.asp?id=2021-99&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Препринты. 2021. № 99. 31 с.&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frisch, Uriel, Brosl Hasslacher, and Yves Pomeau. &amp;ldquo;Lattice Gas Automata for the Navier-Stokes Equation.&amp;rdquo; Phys. Rev. Lett. 56, no. 14 (1986): 1505-1508.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Succi, Sauro. The Lattice Boltzmann Equation for Fluid Dynamics and Beyond. Oxford University Press, 2001.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Решеточные газы, решеточное уравнение Больцмана</title>
