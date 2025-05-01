@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tag/1step/</link>
       <atom:link href="http://localhost:1313/tag/1step/index.xml" rel="self" type="application/rss+xml" />
     <description>1step</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 22 Mar 2025 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Feb 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu991375cb18ef50f275a94f646dee4b07_32991_512x512_fill_lanczos_center_3.png</url>
       <title>1step</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Первый этап проекта</title>
       <link>http://localhost:1313/event/1-step/</link>
-      <pubDate>Sat, 22 Mar 2025 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2025 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/1-step/</guid>
       <description>&lt;h2 id=&#34;видеопрезентация-первого-этапа-группового-проекта&#34;&gt;Видеопрезентация первого этапа группового проекта:&lt;/h2&gt;
 &lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/d3b8e8b575526a025620eb0953f24f40/?skinColor=5e35b1&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
